@@ -1,6 +1,5 @@
 package br.com.leguimas.kartero.database;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.sql.Connection;
@@ -14,7 +13,8 @@ import com.jolbox.bonecp.BoneCPConfig;
 
 public class PoolDeConexoes {
 
-	private static final String ARQUIVO_DE_CONFIGURACOES = "/tmp/kartero.database";
+	private static final String ARQUIVO_DE_CONFIGURACOES = "kartero.database";
+
 	private static BoneCP poolDeConexoes;
 
 	public static Connection obtemConexao() throws SQLException, ClassNotFoundException, IOException {
@@ -28,7 +28,8 @@ public class PoolDeConexoes {
 	private static void iniciaPoolDeConexoes() throws IOException, ClassNotFoundException, SQLException {
 		Properties arquivoDeConfiguracoes = new Properties();
 		try {
-			arquivoDeConfiguracoes.load(new FileInputStream(ARQUIVO_DE_CONFIGURACOES));
+			arquivoDeConfiguracoes.load(Thread.currentThread().getContextClassLoader()
+					.getResourceAsStream((ARQUIVO_DE_CONFIGURACOES)));
 		} catch (FileNotFoundException e) {
 			throw new KarteroException(e, "Nao foi possivel encontrar o arquivo de configuracoes ("
 					+ ARQUIVO_DE_CONFIGURACOES + "). Verifique se o mesmo encontra-se no classpath da aplicacao. ");
@@ -48,5 +49,4 @@ public class PoolDeConexoes {
 
 		poolDeConexoes = new BoneCP(configuracoes);
 	}
-
 }
