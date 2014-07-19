@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>br.com.leguimas.kartero</groupId>
+	<artifactId>parent</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<name>Kartero - Base de CEP dos Correios</name>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+					<testSource>1.7</testSource>
+					<testTarget>1.7</testTarget>
+					<encoding>UTF-8</encoding>
+					<compilerArguments>
+						<Xmaxwarns>10000</Xmaxwarns>
+						<Xlint:-deprecation />
+					</compilerArguments>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-eclipse-plugin</artifactId>
+				<version>2.9</version>
+				<configuration>
+					<downloadJavadocs>fallse</downloadJavadocs>
+					<downloadSources>true</downloadSources>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>com.googlecode.maven-java-formatter-plugin</groupId>
+				<artifactId>maven-java-formatter-plugin</artifactId>
+				<version>0.4</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>format</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<compilerSource>1.7</compilerSource>
+					<compilerCompliance>1.7</compilerCompliance>
+					<compilerTargetPlatform>1.7</compilerTargetPlatform>
+					<lineEnding>LF</lineEnding>
+					<encoding>UTF-8</encoding>
+					<configFile>./src/main/resources/code-formatter.xml</configFile>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<scm>
+		<connection>scm:git:git://github.com/leguimas/kartero.git</connection>
+		<url>scm:git:git://github.com/leguimas/kartero.git</url>
+		<developerConnection>scm:git:git://github.com/leguimas/kartero.git</developerConnection>
+	</scm>
+
+</project>
+
