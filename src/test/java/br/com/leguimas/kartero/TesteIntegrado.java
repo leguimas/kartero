@@ -1,12 +1,19 @@
 package br.com.leguimas.kartero;
 
 import java.io.IOException;
+import java.io.Reader;
+import java.sql.Connection;
+import java.sql.SQLException;
 
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.jdbc.ScriptRunner;
 import org.hsqldb.persist.HsqlProperties;
 import org.hsqldb.server.ServerAcl.AclFormatException;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.mortbay.jetty.webapp.WebAppContext;
+
+import br.com.leguimas.kartero.database.PoolDeConexoes;
 
 public abstract class TesteIntegrado {
 
@@ -58,4 +65,18 @@ public abstract class TesteIntegrado {
 		bancoDeDados.stop();
 	}
 
+	protected static void executaScript(String script) throws IOException, SQLException {
+		Connection conexao = PoolDeConexoes.obtemConexao();
+
+		ScriptRunner executor = new ScriptRunner(conexao);
+		executor.setLogWriter(null);
+		executor.setErrorLogWriter(null);
+
+		Reader scriptParaExecucao = Resources.getResourceAsReader(script);
+		executor.runScript(scriptParaExecucao);
+
+		conexao.commit();
+		conexao.close();
+		scriptParaExecucao.close();
+	}
 }

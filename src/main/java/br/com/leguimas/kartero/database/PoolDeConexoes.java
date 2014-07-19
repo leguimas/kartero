@@ -17,19 +17,31 @@ public class PoolDeConexoes {
 
 	private static BoneCP poolDeConexoes;
 
-	public static Connection obtemConexao() throws SQLException, ClassNotFoundException, IOException {
+	public static Connection obtemConexao() {
+
 		if (poolDeConexoes == null) {
-			iniciaPoolDeConexoes();
+			try {
+				iniciaPoolDeConexoes();
+			} catch (ClassNotFoundException | IOException | SQLException e) {
+				throw new KarteroException(e, "Problemas na inicializacao do pool de conexoes: " + e.getMessage());
+			}
 		}
 
-		return poolDeConexoes.getConnection();
+		Connection conexao = null;
+		try {
+			conexao = poolDeConexoes.getConnection();
+		} catch (SQLException e) {
+			throw new KarteroException(e, "Problemas na obtencao de conexoes: " + e.getMessage());
+		}
+
+		return conexao;
 	}
 
 	private static void iniciaPoolDeConexoes() throws IOException, ClassNotFoundException, SQLException {
 		Properties arquivoDeConfiguracoes = new Properties();
 		try {
 			arquivoDeConfiguracoes.load(Thread.currentThread().getContextClassLoader()
-					.getResourceAsStream((ARQUIVO_DE_CONFIGURACOES)));
+					.getResourceAsStream(ARQUIVO_DE_CONFIGURACOES));
 		} catch (FileNotFoundException e) {
 			throw new KarteroException(e, "Nao foi possivel encontrar o arquivo de configuracoes ("
 					+ ARQUIVO_DE_CONFIGURACOES + "). Verifique se o mesmo encontra-se no classpath da aplicacao. ");
