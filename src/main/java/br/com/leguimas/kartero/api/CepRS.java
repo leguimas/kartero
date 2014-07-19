@@ -16,7 +16,7 @@ public class CepRS {
 
 	/**
 	 * Dado um CEP, retorna as informa&ccedil;&otilde;es do endere&ccedil;o atre&ccedil;ado ao CEP em quest&atilde;o.
-	 *
+	 * 
 	 * @summary Consulta CEP
 	 * @param cep
 	 *            O CEP a ser procurado. Voc&ecirc; pode informar o CEP em qualquer formato. No processamento,

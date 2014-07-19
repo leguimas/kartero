@@ -1,5 +1,5 @@
 var com = { qmino : { miredot : {}}};
-com.qmino.miredot.restApiSource = {"licenceType":"FREE","projectVersion":"1.0.0-SNAPSHOT","allowUsageTracking":true,"jsonDocHidden":true,"licenceHash":"-4829967114119291759","licenceErrorMessage":null,"miredotVersion":"1.4","validLicence":true,"projectTitle":"Kartero - Base de CEP dos Correios-1.0.0-SNAPSHOT","projectName":"Kartero - Base de CEP dos Correios","dateOfGeneration":"2014-07-19 12:28:17","jsonDocEnabled":false};
+com.qmino.miredot.restApiSource = {"licenceType":"FREE","projectVersion":"1.0.0","allowUsageTracking":true,"jsonDocHidden":true,"licenceHash":"-4829967114119291759","licenceErrorMessage":null,"miredotVersion":"1.4","validLicence":true,"projectTitle":"Kartero 1.0.0","projectName":"Kartero - Base de CEP dos Correios","dateOfGeneration":"2014-07-19 20:31:39","jsonDocEnabled":false};
 com.qmino.miredot.restApiSource.tos = {
 
 };
