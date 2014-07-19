@@ -157,11 +157,6 @@
 				</executions>
 				<configuration>
 					<licence>UHJvamVjdHxici5jb20ubGVndWltYXMua2FydGVyby5rYXJ0ZXJvfDIwMTktMDctMTl8dHJ1ZSNNQ3dDRkJFSWh6Y2lwY3g1WU9KdEl4dmN5b0NSRUs4M0FoUVhMcXlwR2ZWVGxJUHRqcjdmUFUva3Flc1hCZz09</licence>
-				    <output>
-				        <html>
-				            ./src/main/webapp
-				        </html>
-				    </output>
 				</configuration>
 			</plugin>
 		</plugins>
