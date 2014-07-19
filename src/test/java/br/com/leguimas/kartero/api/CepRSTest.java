@@ -20,8 +20,7 @@ public class CepRSTest extends TesteIntegrado {
 	public void testaConsultaCEP() throws ClientProtocolException, IOException {
 
 		HttpClient requisicao = new DefaultHttpClient();
-		HttpResponse resposta = requisicao.execute(new HttpGet(
-				"http://localhost:8080/api/cep/13045135"));
+		HttpResponse resposta = requisicao.execute(new HttpGet("http://localhost:8080/api/cep/13045135"));
 
 		assertEquals(HttpStatus.ORDINAL_200_OK, resposta.getStatusLine().getStatusCode());
 	}
