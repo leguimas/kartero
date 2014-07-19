@@ -16,8 +16,8 @@ public abstract class TesteIntegrado {
 
 	@BeforeClass
 	public static void iniciaAmbienteDeTestes() throws Exception {
-		inicializaServidorWeb();
 		inicializaBancoDeDados();
+		inicializaServidorWeb();
 	}
 
 	private static void inicializaServidorWeb() throws Exception {

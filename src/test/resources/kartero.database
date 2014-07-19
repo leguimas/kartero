@@ -1,0 +1,6 @@
+kartero.classeJDBC=org.hsqldb.jdbcDriver
+kartero.urlJDBC=jdbc:hsqldb:mem:kartero
+kartero.usuario=
+kartero.senha=
+kartero.minimoDeConexoes=1
+kartero.maximoDeConexoes=1
