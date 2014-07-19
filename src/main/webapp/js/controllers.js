@@ -17,7 +17,7 @@ function DocRoot($scope, $location, $localStorage, $filter, $http) {
         //baseUrl: com.qmino.miredot.restApiSource.baseUrl || "http://example.com",
         globalCollapsedState: false
     });
-    $scope.$storage.baseUrl = com.qmino.miredot.restApiSource.baseUrl || "http://example.com";
+    $scope.$storage.baseUrl = com.qmino.miredot.restApiSource.baseUrl || "http://kartero.brasilprepagos.com.br/api";
     $scope.editingBaseUrl = false;
     $scope.projectTitle = com.qmino.miredot.restApiSource.projectTitle;
     $scope.miredotVersion = com.qmino.miredot.restApiSource.miredotVersion;
