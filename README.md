@@ -35,4 +35,4 @@ kartero.maximoDeConexoes=[NUMERO_MAXIMO_DE_CONEXOES_COM_BANCO_DE_DADOS]
 
 ### Dúvidas?
 
-Se você tiver qualquer dúvida, o código tá aberto pra ser fuçado! :) Ou então, se preferir, é só me chamar no [twitter](twitter.com/leguimas) que trocamos uma ideia. Beleza? Enjoy it!
+Se você tiver qualquer dúvida, o código tá aberto pra ser fuçado! :) Ou então, se preferir, é só me chamar no [twitter](http://twitter.com/leguimas) que trocamos uma ideia. Beleza? Enjoy it!
