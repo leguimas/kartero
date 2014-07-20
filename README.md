@@ -14,9 +14,9 @@ Serviços REST
 
 Atualmente, existe um único serviço REST disponível através da aplicação. Trata-se de um GET para a obtenção do endereço completo de um CEP. Pro que a aplicação foi criada, é mais do que o suficiente! :) Na aplicação WEB tem uma documentação simples mas com mais informações sobre o serviço.
 
-``
+```
 http://host.doseu.servidor/aplicacao/api/cep/<CEP-DESEJADO>
-``
+```
 
 **QUERO USAR!**
 ---------------
@@ -28,11 +28,11 @@ A utilização do **kartero** é bastante simples. Tudo o que você vai precisar
 3. No servidor instalado, disponibilize o driver JDBC para conexão com a base de dados.
 4. Crie, em um local acessível pela aplicação, um arquivo chamado *kartero.database* com o seguinte contéudo:
 
-``
+```
 kartero.classeJDBC=[CLASSE_JDBC_A_SER_UTILIZADA]
 kartero.urlJDBC=[URL_PARA_CONEXAO_JDBC]
 kartero.usuario=[USUARIO_PARA_CONEXAO_JDBC]
 kartero.senha=[SENHA_PARA_CONEXAO_JDBC]
 kartero.minimoDeConexoes=[NUMERO_MINIMO_DE_CONEXOES_COM_BANCO_DE_DADOS]
 kartero.maximoDeConexoes=[NUMERO_MAXIMO_DE_CONEXOES_COM_BANCO_DE_DADOS]
-``
+```
