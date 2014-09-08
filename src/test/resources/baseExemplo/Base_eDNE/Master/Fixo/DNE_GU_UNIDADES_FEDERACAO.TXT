@@ -1,0 +1,29 @@
+C V1104  28 DEZ 2011    © COPYRIGHT CORREIOS                 UNIDADES DA FEDERAÇÃO                                    
+DBRAC  01Acre                                                                                                         
+DBRAL  02Alagoas                                                                                                      
+DBRAP  03Amapá                                                                                                        
+DBRAM  04Amazonas                                                                                                     
+DBRBA  05Bahia                                                                                                        
+DBRCE  06Ceará                                                                                                        
+DBRDF  07Distrito Federal                                                                                             
+DBRES  08Espírito Santo                                                                                               
+DBRGO  10Goiás                                                                                                        
+DBRMA  11Maranhão                                                                                                     
+DBRMT  12Mato Grosso                                                                                                  
+DBRMS  13Mato Grosso do Sul                                                                                           
+DBRMG  14Minas Gerais                                                                                                 
+DBRPA  15Pará                                                                                                         
+DBRPB  16Paraíba                                                                                                      
+DBRPR  17Paraná                                                                                                       
+DBRPE  18Pernambuco                                                                                                   
+DBRPI  19Piauí                                                                                                        
+DBRRJ  20Rio de Janeiro                                                                                               
+DBRRN  21Rio Grande do Norte                                                                                          
+DBRRS  22Rio Grande do Sul                                                                                            
+DBRRO  23Rondônia                                                                                                     
+DBRRR  09Roraima                                                                                                      
+DBRSC  25Santa Catarina                                                                                               
+DBRSP  26São Paulo                                                                                                    
+DBRSE  27Sergipe                                                                                                      
+DBRTO  24Tocantins                                                                                                    
+#

@@ -1,0 +1,61 @@
+C V1104  28 DEZ 2011    © COPYRIGHT CORREIOS                 LOCALIDADES                                                                                   
+DBRAC     000000001Acrelândia                                                              69945000Acrelândia                          MN              ACR1200013 
+DBRAC     000000002Assis Brasil                                                            69935000Assis Brasil                        MN              ACR1200054 
+DBRAC     000000003Brasiléia                                                               69932000Brasiléia                           MN              ACR1200104 
+DBRAC     000000004Bujari                                                                  69926000Bujari                              MN              ACR1200138 
+DBRAC     000011059Campinas                                                                69929000Campinas                            DN      00000013ACR        
+DBRAC     000000005Capixaba                                                                69931000Capixaba                            MN              ACR1200179 
+DBRAC     000000006Cruzeiro do Sul                                                         69980000Cruzeiro Sul                        MN              ACR1200203 
+DBRAC     000000007Epitaciolândia                                                          69934000Epitaciolândia                      MN              ACR1200252 
+DBRAC     000000008Feijó                                                                   69960000Feijó                               MN              ACR1200302 
+DBRAC     000000009Jordão                                                                  69975000Jordão                              MN              ACR1200328 
+DBRAC     000000010Mâncio Lima                                                             69990000Mâncio Lima                         MN              ACR1200336 
+DBRAC     000000011Manoel Urbano                                                           69950000Manoel Urbano                       MN              ACR1200344 
+DBRAC     000000012Marechal Thaumaturgo                                                    69983000Mal Thaumaturgo                     MN              ACR1200351 
+DBRAC     000000013Plácido de Castro                                                       69928000Plácido Castro                      MN              ACR1200385 
+DBRAC     000000014Porto Acre                                                              69927000Pto Acre                            MN              ACR1200807 
+DBRAC     000000015Porto Walter                                                            69982000Pto Walter                          MN              ACR1200393 
+DBRAC     000000016Rio Branco                                                                      Rio Branco                          MC              ACR1200401 
+DBRAC     000000017Rodrigues Alves                                                         69985000Rodrigues Alves                     MN              ACR1200427 
+DBRAC     000000018Santa Rosa do Purus                                                     69955000Sta Rosa Purus                      MN              ACR1200435 
+DBRAC     000000019Sena Madureira                                                          69940000Sena Madureira                      MN              ACR1200500 
+DBRAC     000000020Senador Guiomard                                                        69925000Sen Guiomard                        MN              ACR1200450 
+DBRAC     000000021Tarauacá                                                                69970000Tarauacá                            MN              ACR1200609 
+DBRAC     000000022Xapuri                                                                  69930000Xapuri                              MN              ACR1200708 
+DBRAL     000000023Água Branca                                                             57490000Água Branca                         MN              AL 2700102 
+DBRAL     000000024Alazão                                                                  57317000Alazão                              PN      00000030AL         
+DBRAL     000000025Alecrim                                                                 57405000Alecrim                             DN      00000136AL         
+DBRAL     000000026Anadia                                                                  57660000Anadia                              MN              AL 2700201 
+DBRAL     000000027Anel                                                                    57710000Anel                                DN      00000188AL         
+DBRAL     000000028Anum Novo                                                               57610100Anum Novo                           PN      00000135AL         
+DBRAL     000000029Anum Velho                                                              57610200Anum Velho                          PN      00000135AL         
+DBRAL     000000030Arapiraca                                                                       Arapiraca                           MC              AL 2700300 
+DBRAL     000000031Atalaia                                                                 57690000Atalaia                             MN              AL 2700409 
+DBRAL     000000032Baixa da Onça                                                           57317100Bx Onça                             PN      00000030AL         
+DBRAL     000000033Baixa do Capim                                                          57317200Bx Capim                            PN      00000030AL         
+DBRAL     000011779Baixa Grande                                                            57318870Bx Grande                           PN      00000030AL         
+DBRAL     000000034Bálsamo                                                                 57317300Bálsamo                             PN      00000030AL         
+DBRAL     000000035Bananeiras                                                              57317400Bananeiras                          PN      00000030AL         
+DBRAL     000000036Barra de Santo Antônio                                                  57925000Barra Sto Antônio                   MN              AL 2700508 
+DBRAL     000000037Barra de São Miguel                                                     57180000Barra S Miguel                      MN              AL 2700607 
+DBRAL     000000038Barra do Bonifácio                                                      57610300Barra Bonifácio                     PN      00000135AL         
+DBRAL     000000039Barra Grande                                                            57958000Barra Grande                        DN      00000112AL         
+DBRAL     000011697Barreiras                                                               57236000Barreiras                           PN      00000071AL         
+DBRAL     000011635Barro Vermelho                                                          57270271Barro Vermelho                      DN      00000096AL         
+DBRAL     000000040Batalha                                                                 57420000Batalha                             MN              AL 2700706 
+DBRAL     000000041Batingas                                                                57317500Batingas                            PN      00000030AL         
+DBRAL     000000042Belém                                                                   57630000Belém                               MN              AL 2700805 
+DBRAL     000000043Belo Monte                                                              57435000Belo Monte                          MN              AL 2700904 
+DBRAL     000000044Boa Sorte                                                               57610400Boa Sorte                           PN      00000135AL         
+DBRAL     000000045Boa Vista                                                               57317600                                    PN      00000030AL         
+DBRAL     000000046Boa Vista                                                               57610500Boa Vista                           PN      00000135AL         
+DBRAL     000000047Boca da Mata                                                            57680000Boca Mata                           MN              AL 2701001 
+DBRAL     000000048Bom Jardim                                                              57317700Bom Jardim                          PN      00000030AL         
+DBRAL     000000049Bonifácio                                                               57610600Bonifácio                           PN      00000135AL         
+DBRAL     000011083Bonsucesso                                                              57239000Bonsucesso                          DN      00000071AL         
+DBRAL     000011303Boqueirão                                                               57953000Boqueirão                           DN      00000091AL         
+DBRAL     000011082Botafogo                                                                57237000Botafogo                            DN      00000071AL         
+DBRAL     000000050Branquinha                                                              57830000Branquinha                          MN              AL 2701100 
+DBRAL     000000051Cacimbinhas                                                             57570000Cacimbinhas                         MN              AL 2701209 
+DBRAL     000000052Cajarana                                                                57317800Cajarana                            PN      00000030AL         
+#

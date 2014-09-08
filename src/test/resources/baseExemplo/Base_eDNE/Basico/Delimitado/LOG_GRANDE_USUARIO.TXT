@@ -1,0 +1,167 @@
+1@AC@16@17@55@Assembléia Legislativa do Estado do Acre@Rua Arlindo Porto Leal 241@69900904@Assembléia L E Acre
+4@AC@16@17@102@Oi@Avenida Brasil 378@69900902@
+498@DF@1778@1129@64269@Banco Central do Brasil@SBS Quadra 3 Bloco B@70074900@Banco C Brasil
+499@DF@1778@1129@64482@Banco de Brasília (Agência Setor Comercial Sul)@SCS Quadra 5 Bloco A Lotes 3,10 e 20@70305919@Banco Brasília (Agência St C Sul)
+500@DF@1778@1129@64267@Banco de Brasília S/A (BRB)@SBS Quadra 1 Bloco E Lote 24@70072900@Banco Brasília S/A (BRB)
+501@DF@1778@1129@64482@Banco do Brasil (Agência Setor Comercial Sul)@SCS Quadra 5 Bloco B Lote 158@70305902@Banco Brasil (Agência St C Sul)
+502@DF@1778@1129@64267@Banco do Brasil (Sede I)@SBS Quadra 1 Bloco A Lote 31@70073900@Banco Brasil (Sede I)
+503@DF@1778@1129@64268@Banco do Brasil (Sede II)@SBS Quadra 2 Bloco H Lote 8@70073902@Banco Brasil (Sede II)
+504@DF@1778@1129@64267@Banco do Brasil (Sede III)@SBS Quadra 1 Bloco G Lote 32@70073901@Banco Brasil (Sede III)
+505@DF@1778@1129@64267@Banco Nacional do Desenvolvimento Econômico Social (BNDES)@SBS Quadra 1 Bloco J Lote 30@70076900@Banco N D E Social (BNDES)
+513@DF@1778@1129@64270@Caixa Econômica Federal@SBS Quadra 4 Bloco A Lotes 3/4@70092900@Caixa E Federal
+523@DF@1778@1129@64482@Centro Comercial Amazonas@SCS Quadra 5 Bloco B Lote 74@70300908@Centro C Amazonas
+537@DF@1778@1129@64481@Companhia de Água e Esgoto de Brasília (CAESB)@SCS Quadra 4 Bloco A Lote 67@70300904@Companhia A E E Brasília (CAESB)
+555@DF@1778@1129@64482@ECT - Divisão Central Filatélica@SCS Quadra 5 Bloco C Lote 22@70305920@ECT - Divisão C Filatélica
+557@DF@1778@1129@64260@Advogacia Geral da União (AGU)@SAUS Quadra 2 Bloco E@70070906@Advogacia G União (AGU)
+559@DF@1778@1129@64268@Edifício Adriana@SBS Quadra 2 Bloco D Lote 16@70070903@
+560@DF@1778@1129@64478@Edifício Alvorada@SCS Quadra 1 Bloco J Lote 30/101@70396900@
+563@DF@1778@1129@64481@Edifício Anápolis@SCS Quadra 4 Bloco A Lote 170@70304910@
+564@DF@1778@1129@64264@Edifício Anatel@SAUS Quadra 6 Blocos C,E,F e H@70070940@
+565@DF@1778@1129@64479@Tele Centro Oeste Celular Participações@SCS Quadra 2 Bloco C Lote 226@70302916@Tele C O C Participações
+567@DF@1778@1129@64479@Edifício Anhangüera@SCS Quadra 2 Bloco C Lote 41@70315900@
+568@DF@1778@1129@64478@Edifício Antônio Venâncio da Silva@SCS Quadra 1 Bloco C Lote 30@70395900@Edifício A V Silva
+569@DF@1778@1129@64481@Edifício Apolo@SCS Quadra 4 Bloco A Lote 256@70304915@
+570@DF@1778@1129@64481@Edifício Araguaia@SCS Quadra 4 Bloco A Lote 57@70304901@
+571@DF@1778@1129@64479@Edifício Ariston@SCS Quadra 2 Bloco C Lote 92@70302908@
+572@DF@1778@1129@64483@Edifício Arnaldo Villares@SCS Quadra 6 Bloco A Lote 110@70324900@Edifício A Villares
+573@DF@1778@1129@64263@Edifício Assistência Brasileira de Municípios@SAUS Quadra 5 Bloco F@70070910@Edifício A B Municípios
+575@DF@1778@1129@64268@Fundo Nacional de Desenvolvimento da Educação@SBS Quadra 2 Bloco F@70070929@Fundo N D Educação
+576@DF@1778@1129@64483@Edifício Bandeirantes@SCS Quadra 6 Bloco A Lote 157@70300910@
+577@DF@1778@1129@64478@Edifício Baracat@SCS Quadra 1 Bloco G Lote 30@70309900@
+578@DF@1778@1129@64264@Edifício Belvedere@SAUS Quadra 6 Bloco K@70070915@
+579@DF@1778@1129@64481@Edifício Bernardo Sayão@SCS Quadra 4 Bloco A Lote 216@70304912@Edifício B Sayão
+583@DF@1778@1129@64482@Edifício Bolsa de Valores@SCS Quadra 5 Bloco C Lote 61@70305912@Edifício B Valores
+584@DF@1778@1129@64479@Edifício Bradesco Brasília@SCS Quadra 2 Bloco A Lote 81@70329900@Edifício B Brasília
+585@DF@1778@1129@64481@Edifício Assefaz@SCS Quadra 4 Bloco A Lote 169/177@70304908@
+586@DF@1778@1129@64481@Edifício Brasal II@SCS Quadra 4 Bloco A Lote 169@70304909@
+591@DF@1778@1129@64480@Edifício Bratur@SCS Quadra 3 Bloco A Lote 65@70303902@
+593@DF@1778@1129@64478@Edifício Camargo Corrêa@SCS Quadra 1 Bloco F Lote 30@70397900@Edifício C Corrêa
+594@DF@1778@1129@64264@Edifício Camilo Cola@SAUS Quadra 6 Bloco J@70070916@Edifício C Cola
+595@DF@1778@1129@64482@Edifício Candango@SCS Quadra 5 Bloco C Lote 18/22@70305910@
+596@DF@1778@1129@64480@Edifício Capemi@SCS Quadra 3 Bloco A Lote 150/170@70303911@
+597@DF@1778@1129@64483@Edifício Carioca@SCS Quadra 6 Bloco A Lote 150/170@70325900@
+598@DF@1778@1129@64482@Edifício Carvalho Hosken@SCS Quadra 5 Bloco B Lote 84@70305905@Edifício C Hosken
+599@DF@1778@1129@64268@Edifício Casa de São Paulo@SBS Quadra 2 Bloco A Lote 19@70078900@Edifício C S Paulo
+600@DF@1778@1129@64478@Edifício Ceará@SCS Quadra 1 Bloco E Lote 30@70303900@
+601@DF@1778@1129@64479@Edifício Cedro II@SCS Quadra 2 Bloco C Lote 180@70302914@
+602@DF@1778@1129@64478@Edifício Central@SCS Quadra 1 Bloco I Lote 30@70304900@
+608@DF@1778@1129@64270@Edifício Centro Cultural da Caixa Econômica Federal@SBS Quadra 4 Lote 03/04@70070930@Edifício C C C E Federal
+611@DF@1778@1129@64483@Edifício City Bank@SCS Quadra 6 Bloco A Lote 194@70306910@Edifício C Bank
+612@DF@1778@1129@64262@Edifício CNTEEC@SAUS Quadra 4 Bloco B Lote 7A@70070908@
+613@DF@1778@1129@64263@Conselho Federal de Contabilidade (CFC)@SAUS Quadra 5 Bloco J Lote 3@70070920@Conselho F Contabilidade (CFC)
+614@DF@1778@1129@64263@Conselho Federal de Química (CFQ)@SAUS Quadra 5 Bloco I Lotes 5/3a@70070921@Conselho F Química (CFQ)
+616@DF@1778@1129@64259@Edifício Darcy Ribeiro@SAUS Quadra 1 Bloco A@70070905@Edifício D Ribeiro
+618@DF@1778@1129@64259@Dataprev@SAUS Quadra 1 Bloco E e F@70070931@
+620@DF@1778@1129@64478@Edifício Denasa@SCS Quadra 1 Bloco K Lote 30@70398900@
+622@DF@1778@1129@64262@Instituto Nacional do Seguro Social - Gerência Executiva DF@SAUS Quadra 4 Bloco K@70070924@Instituto N S Social - Gerência E DF
+623@DF@1778@1129@64480@Edifício Dom Bosco@SCS Quadra 3 Bloco A Lote 114/118@70303908@Edifício D Bosco
+624@DF@1778@1129@64480@Edifício Dona Ângela@SCS Quadra 3 Bloco A Lote 30@70300906@Edifício Da Ângela
+626@DF@1778@1129@64481@Edifício Embaixador@SCS Quadra 4 Bloco A Lote 49@70300907@
+629@DF@1778@1129@64268@Edifício Empire Center@SBS Quadra 2 Bloco S Lote 1@70070904@Edifício E Center
+631@DF@1778@1129@64483@Edifício Ermes@SCS Quadra 6 Bloco A Lote 130@70306901@
+633@DF@1778@1129@64484@Edifício Executive Tower@SCS Quadra 7 Bloco A@70307901@
+634@DF@1778@1129@64481@Edifício FACEB II@SCS Quadra 4 Bloco A Bloco  Lote 106/136@70304906@
+635@DF@1778@1129@64483@Edifício Federação do Comércio@SCS Quadra 6 Bloco A Lote 206@70306911@Edifício F Comércio
+636@DF@1778@1129@64482@Edifício Galeria Mirim@SCS Quadra 5 Bloco B Lote 138@70305906@Edifício Gal Mirim
+637@DF@1778@1129@64480@Edifício Geni@SCS Quadra 3 Bloco A Loja 1@70303904@
+638@DF@1778@1129@64480@Edifício CACB@SCS Quadra 3 Bloco A Lote 126@70313916@
+639@DF@1778@1129@64478@Edifício Gilberto Salomão@SCS Quadra 1 Bloco M Lote 30@70305900@Edifício G Salomão
+640@DF@1778@1129@64479@Edifício Goiás@SCS Quadra 2 Bloco C Lote 104@70317900@
+641@DF@1778@1129@64483@Edifício CDL@SCS Quadra 6 Bloco A Lotes 10/11@70306905@
+642@DF@1778@1129@64482@Edifício Guiana@SCS Quadra 5 Bloco B Lote 80@70305904@
+643@DF@1778@1129@64263@Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT)@SAUS Quadra 5 Bloco H Lote 6@70070912@Instituto B I E C E Tecnologia (IBIC
+644@DF@1778@1129@64483@Edifício SEDUH@SCS Quadra 6 Bloco A Lote 13/14@70306918@
+646@DF@1778@1129@64481@Empresa Brasileira de Infra-estrutura Aeroportuária (Infraero)@SCS Quadra 4 Bloco A Lote 58@70304902@Empresa B I Aeroportuária (Infraero)
+651@DF@1778@1129@64481@Edifício Israel Pinheiro@SCS Quadra 4 Bloco A Lote 230@70304914@Edifício I Pinheiro
+653@DF@1778@1129@64479@Edifício Jamel Cecílio@SCS Quadra 2 Bloco C Lote 34/35@70302905@Edifício J Cecílio
+654@DF@1778@1129@64483@Edifício Jessé Freire@SCS Quadra 6 Bloco A Lote 172@70306908@Edifício J Freire
+655@DF@1778@1129@64478@Edifício JK@SCS Quadra 1 Bloco D Lote 28@70306900@
+656@DF@1778@1129@64480@Edifício João Paulo II@SCS Quadra 3 Bloco A Lote 79@70303903@Edifício J Paulo II
+657@DF@1778@1129@64479@Edifício Jockey Club@SCS Quadra 2 Bloco C Lote 157@70302912@Edifício J Club
+658@DF@1778@1129@64480@Edifício José Barros@SCS Quadra 3 Bloco A Lote 234@70313914@Edifício J Barros
+659@DF@1778@1129@64482@Edifício José Haje@SCS Quadra 5 Bloco C Lote 70/74@70305914@Edifício J Haje
+660@DF@1778@1129@64483@Edifício José Severo@SCS Quadra 6 Bloco A Lote 71@70326900@Edifício J Severo
+663@DF@1778@1129@64268@Edifício Lino Martins Pinto@SBS Quadra 2 Bloco L@70070928@Edifício L M Pinto
+664@DF@1778@1129@64478@Edifício Márcia@SCS Quadra 1 Bloco L Lote 17@70307900@
+665@DF@1778@1129@64268@Edifício Marco@SBS Quadra 2 Bloco B Lote 18@70070902@
+667@DF@1778@1129@64478@Edifício Maristela@SCS Quadra 1 Bloco B Lote 16/18@70308900@
+668@DF@1778@1129@64482@Edifício Meire@SCS Quadra 5 Bloco C Lote 64/66@70305913@
+669@DF@1778@1129@64482@Edifício Meirelles@SCS Quadra 5 Bloco C Lote 15/16@70305908@
+671@DF@1778@1129@64481@Edifício Mineiro@SCS Quadra 4 Bloco A Lote 209/217@70304911@
+672@DF@1778@1129@64260@Instituto Nacional da Propriedade Indústrial (INPI)@SAUS Quadra 2 Lote 1-A@70070919@Instituto N P Indústrial (INPI)
+674@DF@1778@1129@64478@Edifício Morro Vermelho@SCS Quadra 1 Bloco H Lote 30@70399900@Edifício Mro Vermelho
+676@DF@1778@1129@64482@Edifício Assefaz II@SCS Quadra 5 Bloco C Lote 154@70305917@
+677@DF@1778@1129@64482@Edifício Nicola Caminha@SCS Quadra 5 Bloco A Lote 34@70305901@Edifício N Caminha
+678@DF@1778@1129@64482@Edifício Nominato Gustavo@SCS Quadra 5 Bloco C Lote 110@70305916@Edifício N Gustavo
+679@DF@1778@1129@64481@Edifício Nordeste@SCS Quadra 4 Bloco A Lote 156@70304907@
+682@DF@1778@1129@64263@Ordem dos Advogados do Brasil (OAB)@SAUS Quadra 5 Bloco N Lote 2@70070913@Ordem A Brasil (OAB)
+683@DF@1778@1129@64479@Edifício OK@SCS Quadra 2 Bloco C Lote 78@70302907@
+684@DF@1778@1129@64480@Edifício Oriental@SCS Quadra 3 Bloco A Lotes 132/134@70303910@
+685@DF@1778@1129@64480@Edifício Oscar Alvarenga@SCS Quadra 3 Bloco B Lotes 84/90@70313915@Edifício O Alvarenga
+686@DF@1778@1129@64479@Edifício Oscar Niemeyer@SCS Quadra 2 Bloco D Lote 81@70316900@Edifício O Niemeyer
+690@DF@1778@1129@64479@Edifício Palácio do Comércio@SCS Quadra 2 Bloco B Lote 20@70318900@Edifício P Comércio
+694@DF@1778@1129@64482@Edifício Paraíban@SCS Quadra 5 Bloco C Lote 8@70305907@
+695@DF@1778@1129@64480@Edifício Paranoá@SCS Quadra 3 Bloco A Lote 210@70303912@
+697@DF@1778@1129@64479@Edifício Paulo Sarasate@SCS Quadra 2 Bloco C Lote 115@70302911@Edifício P Sarasate
+700@DF@1778@1129@64267@Edifício Planalto@SBS Quadra 1 Bloco L@70070927@
+701@DF@1778@1129@64480@Edifício Planalto Ok@SCS Quadra 3 Bloco A Entrada A/B Lote 40@70303901@Edifício P Ok
+703@DF@1778@1129@64480@Instituto de Seguridade Social dos Correios e Telégrafos (Postalis)@SCS Quadra 3 Bloco A Lote 120@70300903@Instituto S S C E Telégrafos (Postal
+704@DF@1778@1129@64483@Edifício Presidente@SCS Quadra 6 Bloco A Lote 141@70327900@
+705@DF@1778@1129@64479@Edifício Presidente Dutra@SCS Quadra 2 Bloco C Lote 227@70302917@Edifício Pres Dutra
+706@DF@1778@1129@64480@Edifício Professor@SCS Quadra 3 Bloco A Lote 107/111@70303907@
+710@DF@1778@1129@64480@Edifício Santa Fé@SCS Quadra 3 Bloco A Loja 6@70303905@Edifício Sta Fé
+711@DF@1778@1129@64479@Edifício São Paulo@SCS Quadra 2 Bloco C Lote 99@70314900@Edifício S Paulo
+712@DF@1778@1129@64262@Edifício Sede da Segunda Justiça Federal@SAUS Quadra 4 Bloco O Lote 7J@70070926@Edifício S S J Federal
+714@DF@1778@1129@64267@Edifício Seguradoras@SBS Quadra 1 Bloco K Lote 29@70093900@
+715@DF@1778@1129@64479@Edifício Serra Dourada@SCS Quadra 2 Bloco C Lote 22@70300902@Edifício S Dourada
+716@DF@1778@1129@64482@Edifício Sharp@SCS Quadra 5 Bloco C Lote 39@70305909@
+717@DF@1778@1129@64483@Edifício Sofia@SCS Quadra 6 Bloco A Lote 50@70306902@
+718@DF@1778@1129@64483@Edifício Sônia (Câmara dos Dirigentes Lojistas)@SCS Quadra 6 Bloco A Lote 136@70306906@Edifício Sônia (Câmara D Lojistas)
+719@DF@1778@1129@64263@Superintendência do Ibama - DF@SAUS Quadra 5 Bloco H@70070914@Superintendência Ibama - DF
+721@DF@1778@1129@64479@Edifício Toufic@SCS Quadra 2 Bloco C Lote 256/278@70302918@
+722@DF@1778@1129@64263@Edifício Tower@SAUS Quadra 5 Lote 4/5@70070918@
+725@DF@1778@1129@64478@Edifício União@SCS Quadra 1 Bloco A Lote 30@70300901@
+726@DF@1778@1129@64482@Edifício Unitel@SCS Quadra 5 Bloco C Lote 43@70305911@
+730@DF@1778@1129@64481@Edifício Vera Cruz@SCS Quadra 4 Bloco A Lote 219/237@70304913@Edifício V Cruz
+731@DF@1778@1129@64479@Edifício Vitória@SCS Quadra 2 Bloco C Lote 179@70302913@
+732@DF@1778@1129@64482@Edifício Wady Cecílio (BCN)@SCS Quadra 5 Bloco C Lote 90@70305915@Edifício W Cecílio (BCN)
+733@DF@1778@1129@64479@Edifício Wady Cecílio II@SCS Quadra 2 Bloco C Lote 164/174@70302915@Edifício W Cecílio II
+734@DF@1778@1129@64480@Edifício Yara Medeiros@SCS Quadra 3 Bloco A Lote 95@70303906@Edifício Y Medeiros
+735@DF@1778@1129@64481@Edifício Zarife@SCS Quadra 4 Bloco A Lote 94@70304904@
+753@DF@1778@1129@64263@Embaixada da Guiana@SAUS Quadra 5 Bloco N Lote 2@70438900@Embaixada Guiana
+759@DF@1778@1129@64478@Embaixada da Nicarágua@SCS Quadra 1 Bloco C 13º Andar Sala 1301@70454900@Embaixada Nicarágua
+783@DF@1778@1129@64478@Embaixada do Panamá@SCS Quadra 1 Bloco D 13º Andar Sala 132/133@70449900@Embaixada Panamá
+784@DF@1778@1129@64478@Embaixada do Paquistão@SCS Quadra 1 Bloco F 5º Andar@70458900@Embaixada Paquistão
+794@DF@1778@1129@64482@Empresa Brasileira de Telecomunicações S/A (Embratel)@SCS Quadra 5 Bloco D@70328900@Empresa B Telecomunicações S/A (Embr
+799@DF@1778@1129@64259@Fundação de Assistência ao Estudante (FAE)@SAUS Quadra 1 Bloco A@70729900@Fundação A Estudante (FAE)
+806@DF@1778@1129@64482@Galeria Nova Ouvidor@SCS Quadra 5 Bloco C Lote 54@70305918@Gal Nova Ouvidor
+834@DF@1778@1129@64262@Justiça Federal@SAUS Quadra 4 Bloco D Lote 7@70070901@
+845@DF@1778@1129@64264@Ministério da Fazenda (Órgãos Centrais)@SAUS Quadra 6 Bloco O@70070917@Ministério Fazenda (Órgãos Centrais)
+850@DF@1778@1129@64262@Ministério da Saúde - Funasa@SAUS Quadra 4 Bloco N@70070942@Ministério Saúde - Funasa
+860@DF@1778@1129@64262@Ministério Público do Trabalho@SAUS Quadra 4 Bloco L@70070922@Ministério P Trabalho
+861@DF@1778@1129@64263@Ministério Público e Federal@SAUS Quadra 5 Bloco E Lote 8@70070911@Ministério P E Federal
+862@DF@1778@1129@64261@Ministério Público Militar@SAUS Quadra 3 Bloco J@70070925@Ministério P Militar
+863@DF@1778@1129@64262@Ministério Saúde@SAUS Quadra 4 Bloco N@70070923@
+870@DF@1778@1129@64484@Pátio Brasil Shopping@SCS Quadra 7 Bloco A@70307902@Pat Brasil Shopping
+883@DF@1778@1129@64261@Secretaria da Receita Federal (Órgãos Regionais - MF)@SAUS Quadra 3 Bloco O@70079900@Secretaria R Federal (Órgãos Regiona
+886@DF@1778@1129@64264@Secretaria de Polícia Federal@SAUS Quadra 6 Bloco A@70037900@Secretaria P Federal
+893@DF@1778@1129@64485@Super Center Venâncio 2000@SCS Quadra 8 Bloco B Lotes 50/60@70333900@Super C Venâncio 2000
+895@DF@1778@1129@64139@Superior Tribunal Militar@Praça dos Tribunais Superiores Bloco B@70098900@Superior T Militar
+898@DF@1778@1129@64479@Telecomunicações de Brasília S/A (Telebrasília)@SCS Quadra 2 Bloco E@70302903@Telecomunicações Brasília S/A (Teleb
+905@DF@1778@1129@64139@Tribunal Regional Federal (TRF)@Praça dos Tribunais Superiores Bloco A@70070900@Tribunal R Federal (TRF)
+906@DF@1778@1129@64139@Tribunal Regional do Trabalho 10ª Região@Praça dos Tribunais Superiores Bloco D@70097900@Tribunal R T 10ª Região
+907@DF@1778@1129@64139@Tribunal Superior Eleitoral (TSE)@Praça dos Tribunais Superiores@70096900@Tribunal S Eleitoral (TSE)
+10453@DF@1778@1129@64259@Conselho Federal de Administração (CFA)@SAUS Quadra 1 Bloco L@70070932@Conselho F Administração (CFA)
+10454@DF@1778@1129@64260@Justiça Federal - Sede I@SAUS Quadra 2 Bloco G Lote 8@70070933@
+10455@DF@1778@1129@64261@Business Point@SAUS Quadra 3 Bloco C Lotes 2/3@70070934@
+10456@DF@1778@1129@64259@Edifício Libertas@SAUS Quadra 1 Bloco M Lote 4@70070935@
+10458@DF@1778@1129@64262@Organização das Cooperativas Brasileiras@SAUS Quadra 4 Bloco I Lote 3-A@70070936@Organização C Brasileiras
+10460@DF@1778@1129@64263@Edifício OK Office Tower@SAUS Quadra 5 Blocos K Lote 4@70070937@Edifício O O Tower
+10461@DF@1778@1129@64262@Edifício Victoria Office Tower@SAUS Quadra 4 Lote 9/10@70070938@Edifício V O Tower
+11047@DF@1778@1129@64263@Edifício Conselho Federal da OAB@SAUS Quadra 5 Bloco M Lote 1@70070939@Edifício C F OAB
+11686@DF@1778@1129@64259@Edifício Terra Brasilis@SAUS Quadra 1 Bloco N Lote 1@70070941@Edifício T Brasilis
+11687@DF@1778@1129@64481@Edifício FACEB I@SCS Quadra 4 Bloco A Lote 141/153@70304905@
+17129@DF@1778@1129@64482@Credfaz@SCS Quadra 5 Bloco C Lotes 165 e 169@70305921@
+17858@DF@1778@1129@64259@SEST SENAT@SAUS Quadra 1 Bloco J@70070944@
+18702@DF@1778@1129@64268@Edifício Elcy Meireles@SBS Quadra 2 Lote 11@70070945@Edifício E Meireles
+19448@DF@1778@1129@64260@Instituto Nacional do Seguro Social - Direção Central@SAUS Quadra 2 Bloco O@70070946@Instituto N S Social - Direção Centr

@@ -1,0 +1,15 @@
+DNE versão 1104 Atualizada até 28/12/2011
+
+COMUNICADO IMPORTANTE
+--------------------------------------------
+Ler arquivos:
+
+	A_COMUNICADO - Uso dos arquivos.doc
+
+                Leiautes_delimitador.doc - básico\delimitado\
+
+                Leiautes_delimitador.doc - master\delimitado\
+
+                Leiautes_fixo.doc - master\fixo\
+
+                Leiautes_fixo.doc - básico\fixo\

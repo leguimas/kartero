@@ -1,0 +1,30 @@
+1778@1@BSB
+1778@2@BSA
+1778@3@Ceilândia Norte
+1778@4@Ceilândia Sul
+1778@5@Cruzeiro Velho
+1778@6@Cruzeiro Novo
+1778@7@C Velho
+1778@8@C Novo
+1778@9@Octogonal
+1778@10@Guará I
+1778@11@Guará II
+1778@12@L Norte
+1778@13@L Sul
+1778@14@N Bandeirante
+1778@15@Bandeirante
+1778@16@Paranoá Norte
+1778@17@Paranoá Sul
+1778@18@R Emas
+1778@19@Rec das Emas
+1778@20@Riacho Fundo I
+1778@21@Riacho Fundo II
+1778@22@R Fundo
+1778@23@SAM
+1778@24@S Sebastião
+1778@25@Taguatinga Norte
+1778@26@Taguatinga Sul
+1778@27@Tag
+1811@1@Ângelo Frequiani
+1811@2@Ângelo Frequiane
+1811@3@Ângelo Frechiane

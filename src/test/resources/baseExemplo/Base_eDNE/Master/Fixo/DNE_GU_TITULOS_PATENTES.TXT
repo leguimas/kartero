@@ -1,0 +1,696 @@
+C V1104  28 DEZ 2011    © COPYRIGHT CORREIOS                 TITULOS E PATENTES                 
+D   0109Abade                                                                   Ab              
+D   0110Abadessa                                                                Abª             
+D   0663Abolicionista                                                           Abolic          
+D   0111Acadêmica                                                               Acda            
+D   0112Acadêmico                                                               Acdo            
+D   0574Administrador                                                           Adm             
+D   0113Advogada                                                                Advª            
+D   0114Advogado                                                                Adv             
+D   0835Advogado Doutor                                                         Adv Dr          
+D   0115Agente                                                                  Ag              
+D   0855Agente Administrativo                                                   Ag Adm          
+D   0909Agente de Investigação                                                  Ag Inv          
+D   0116Agente Fiscal                                                           Ag Fisc         
+D   0728Agente Policial                                                         Ag Policial     
+D   0903Agente Postal                                                           Ag Postal       
+D   0118Agricultor                                                              Agric           
+D   0847Agricultora                                                             Agricª          
+D   0119Agrimensor                                                              Agrim           
+D   0117Agrônoma                                                                Agronª          
+D   0120Agrônomo                                                                Agron           
+D   0643Agropecuarista                                                          Agropec         
+D   0122Alcaide-Mor                                                             Alc-Mor         
+D   0139Alfaiate                                                                Alft            
+D   0123Alferes                                                                 Alf             
+D   0124Almirante                                                               Alm             
+D   0703Almirante Marquês                                                       Alm Mq          
+D   0729Almocreve                                                               Almo            
+D   0121Aluna                                                                   Alª             
+D   0125Aluno                                                                   Al              
+D   0126Analista                                                                Anl             
+D   0830Ancião                                                                  Anc             
+D   0883Anjo                                                                    Anjo            
+D   0127Anspeçada                                                               Ansp            
+D   0740Antropólogo                                                             Ant             
+D   0846Aposentada                                                              Apª             
+D   0650Aposentado                                                              Ap              
+D   0129Apóstolo                                                                Apst            
+D   0128Aprendiz                                                                Apdz            
+D   0899Apresentador                                                            Apres           
+D   0819Arcanjo                                                                 Arcj            
+D   0130Arcebispo                                                               Arc             
+D   0765Arcebispo Dom                                                           Arc D           
+D   0131Arquiteta                                                               Arqª            
+D   0132Arquiteto                                                               Arq             
+D   0882Arquiteto Professor                                                     Arq Prf         
+D   0870Arquivista                                                              Arqva           
+D   0575Artesão                                                                 Arts            
+D   0456Artífice                                                                Artf            
+D   0133Artista                                                                 Art             
+D   0887Artista Plástica                                                        Art Plsta       
+D   0912Artista Plástico                                                        Art Plsto       
+D   0895Artistas                                                                Artis           
+D   0134Aspirante                                                               Asp             
+D   0576Assistente Social                                                       Ass Soc         
+D   0845Astrólogo                                                               Astl            
+D   0135Astronauta                                                              Astn            
+D   0692Astrônomo                                                               Astr            
+D   0138Atendente                                                               Atde            
+D   0853Atirador                                                                Atdor           
+D   0460Atleta                                                                  Atl             
+D   0136Ator                                                                    At              
+D   0141Atriz                                                                   Atz             
+D   0142Auditor                                                                 Aud             
+D   0143Auditora                                                                Audª            
+D   0140Autor                                                                   Atr             
+D   0137Autora                                                                  Atª             
+D   0874Auxiliar de Escritório                                                  Aux Esc         
+D   0144Aviador                                                                 Av              
+D   0808Aviador Marquês                                                         Av Mq           
+D   0849Aviador Militar                                                         Av Mtr          
+D   0145Aviadora                                                                Ava             
+D   0925Avó                                                                     Avó             
+D   0150Bacharel                                                                Bel             
+D   0607Bailarino                                                               Bail            
+D   0660Balconista                                                              Bal             
+D   0147Bancária                                                                Banca           
+D   0146Bancário                                                                Banc            
+D   0148Bandeirante                                                             Bante           
+D   0149Bandeireiro                                                             Beiro           
+D   0151Bandeirinha                                                             Binha           
+D   0152Bandeirista                                                             Bista           
+D   0155Barão                                                                   Br              
+D   0156Baronesa                                                                Bra             
+D   0159Beata                                                                   Bta             
+D   0770Beata Madre                                                             Bta Me          
+D   0160Beato                                                                   Bto             
+D   0771Beato Monsenhor                                                         Bto Mns         
+D   0879Beato Padre                                                             Bto Pe          
+D   0834Bem-aventurado                                                          B-Avent         
+D   0902Benemérito                                                              Ben             
+D   0693Benfeitor                                                               Benf            
+D   0711Benfeitor Jovem                                                         Benf Jov        
+D   0900Biólogo                                                                 Biol            
+D   0154Bispo                                                                   Bpo             
+D   0725Bispo Dom                                                               Bpo D           
+D   0153Bombeiro                                                                Bomb            
+D   0157Brigadeiro                                                              Brg             
+D   0158Brigadeiro-do-Ar                                                        Brg-Ar          
+D   0182Cabo                                                                    Cb              
+D   0788Cabo Frei                                                               Cb Fr           
+D   0577Cabo-Polícia Militar                                                    Cb-PM           
+D   0161Cacique                                                                 Cac             
+D   0169Cadete                                                                  Cad             
+D   0177Camareira                                                               Car             
+D   0180Camarista                                                               Cat             
+D   0848Caminhoneiro                                                            Camhro          
+D   0210Cantor                                                                  Ct              
+D   0873Cantor Sertanejo                                                        Ct-Serta        
+D   0211Cantora                                                                 Cta             
+D   0715Capataz                                                                 Capz            
+D   0176Capelão                                                                 Capl            
+D   0911Capitã                                                                  Capt            
+D   0172Capitão                                                                 Cap             
+D   0173Capitão Aviador                                                         Cap Av          
+D   0804Capitão Barão                                                           Cap Br          
+D   0630Capitão Capelão                                                         Cap Capl        
+D   0931Capitão Doutor                                                          Cap. Dr.        
+D   0802Capitão Frei                                                            Cap Fr          
+D   0783Capitão Índio                                                           Cap Id          
+D   0174Capitão Médico                                                          Cap Med         
+D   0578Capitão Tenente                                                         Cap Ten         
+D   0175Capitão-Mor                                                             Cap-Mor         
+D   0459Capitão-Polícia Militar                                                 Cap-PM          
+D   0885Carcereiro                                                              Carc            
+D   0178Cardeal                                                                 Card            
+D   0821Cardeal Bispo Dom                                                       Card Bpo D      
+D   0762Cardeal Dom                                                             Card D          
+D   0742Carnavalesco                                                            Carnav          
+D   0717Carpinteiro                                                             Carp            
+D   0579Carreteiro                                                              Carr            
+D   0685Carroceiro                                                              Carroc          
+D   0179Carteiro                                                                Cart            
+D   0904Cartorário                                                              Crto            
+D   0910Cartunista                                                              Cartun          
+D   0181Catequista                                                              Catq            
+D   0170Cavalheiro                                                              Calh            
+D   0580Cego                                                                    Cego            
+D   0730Centenário                                                              Cent            
+D   0188Ceramista                                                               Cer             
+D   0190Chanceler                                                               Chac            
+D   0189Chefe                                                                   Ch              
+D   0722Cidadã                                                                  Cidª            
+D   0842Cidadã Emérita Doutora                                                  Cidª Emta Dra   
+D   0723Cidadão                                                                 Cidº            
+D   0921Cidadão Prestante                                                       Cid Prest       
+D   0461Cientista                                                               Cient           
+D   0192Cineasta                                                                Cinet           
+D   0191Cinegrafista                                                            Cineg           
+D   0854Cirurgião                                                               Cirurg          
+D   0467Coletor                                                                 Col             
+D   0926Coletora                                                                Colra           
+D   0923Colonizador                                                             Colon           
+D   0199Comadre                                                                 Cme             
+D   0195Comandante                                                              Cmte            
+D   0694Comandante Aviador                                                      Cmte Av         
+D   0746Comediante                                                              Comed           
+D   0185Comendador                                                              Cdor            
+D   0610Comendador Capitão                                                      Cdor Cap        
+D   0631Comendador Doutor                                                       Cdor Dr         
+D   0757Comendador Professor                                                    Cdor Prf        
+D   0206Comerciante                                                             Cote            
+D   0840Comerciário                                                             Comerc          
+D   0193Comissária                                                              Cmisa           
+D   0194Comissário                                                              Cmiso           
+D   0186Comodoro                                                                Cdro            
+D   0203Compadre                                                                Cope            
+D   0208Compositor                                                              Cpto            
+D   0207Compositora                                                             Cpta            
+D   0928Comunitária                                                             Cmta            
+D   0581Comunitário                                                             Cmto            
+D   0183Conde                                                                   Cd              
+D   0184Condessa                                                                Cda             
+D   0200Cônego                                                                  Con             
+D   0792Cônego Doutor                                                           Con Dr          
+D   0198Confrade                                                                Cofe            
+D   0196Conselheira                                                             Cnsa            
+D   0197Conselheiro                                                             Cnso            
+D   0708Conselheiro Doutor                                                      Cnso Dr         
+D   0201Construtor                                                              Const           
+D   0209Cônsul                                                                  Csl             
+D   0695Consulesa                                                               Csla            
+D   0684Contabilista                                                            Contab          
+D   0202Contador                                                                Cont            
+D   0171Contra-Almirante                                                        C-Alm           
+D   0451Corneteiro                                                              Corn            
+D   0187Coronel                                                                 Cel             
+D   0582Coronel Aviador                                                         Cel Av          
+D   0458Coronel Doutor                                                          Cel Dr          
+D   0627Coronel-PM                                                              Cel-PM          
+D   0204Corredor                                                                Crdr            
+D   0205Corretor                                                                Cort            
+D   0764Corretor Cônego                                                         Cort Con        
+D   0858Costureira                                                              Cost            
+D   0583Cronista                                                                Crta            
+D   0716Cruzador                                                                Cruz            
+D   0696Delegada                                                                Dela            
+D   0215Delegado                                                                Del             
+D   0276Dentista                                                                Dent            
+D   0278Deputada                                                                Depa            
+D   0277Deputado                                                                Dep             
+D   0916Deputado Federal                                                        Dep Fed         
+D   0162Desbravador                                                             Desb            
+D   0279Desembargador                                                           Des             
+D   0766Desembargador Doutor                                                    Des Dr          
+D   0932Desembargadora                                                          Desª            
+D   0275Desenhista                                                              Denh            
+D   0214Despachante                                                             Dech            
+D   0163Desportista                                                             Desp            
+D   0164Detetive                                                                Det             
+D   0165Diaconiza                                                               Diacª           
+D   0166Diácono                                                                 Diac            
+D   0167Diplomata                                                               Dipl            
+D   0168Diretor                                                                 Dir             
+D   0217Diretor Publicitário                                                    Dir Publ        
+D   0216Diretora                                                                Dira            
+D   0218Distribuidor                                                            Dist            
+D   0866Divulgador                                                              Divu            
+D   0450Doadora                                                                 Doa             
+D   0212Dom                                                                     D               
+D   0767Dom Abade                                                               D Ab            
+D   0776Dom Bispo                                                               D Bpo           
+D   0803Dom Infante                                                             D Inf           
+D   0856Doméstica                                                               Dome            
+D   0213Dona                                                                    Da              
+D   0778Dona Santa                                                              Da Sta          
+D   0775Dona Sinhá                                                              Da Sinha        
+D   0221Doutor                                                                  Dr              
+D   0751Doutor Deputado                                                         Dr Dep          
+D   0753Doutor Infante                                                          Dr Inf          
+D   0823Doutor Professor                                                        Dr Prf          
+D   0768Doutor Vereador                                                         Dr Ver          
+D   0222Doutora                                                                 Dra             
+D   0219Duque                                                                   Dq              
+D   0749Duque Engenheiro Agrônomo                                               Dq Eng Agron    
+D   0220Duquesa                                                                 Dqa             
+D   0705Ecologista                                                              Ecol            
+D   0223Economista                                                              Econ            
+D   0861Editor                                                                  Ed              
+D   0863Educador                                                                Educ            
+D   0462Educadora                                                               Educª           
+D   0224Eletricista                                                             Eletr           
+D   0608Emancipador                                                             Emanc           
+D   0225Embaixador                                                              Emb             
+D   0226Embaixatriz                                                             Embz            
+D   0897Embolador                                                               Embl            
+D   0901Empresária                                                              Empa            
+D   0227Empresário                                                              Emp             
+D   0228Enfermeira                                                              Enfa            
+D   0229Enfermeiro                                                              Enfo            
+D   0231Engenheira                                                              Enga            
+D   0230Engenheiro                                                              Eng             
+D   0817Engenheiro Agrimensor                                                   Eng Agrim       
+D   0652Engenheiro Agrônomo                                                     Eng Agron       
+D   0697Engenheiro Químico                                                      Eng Quim        
+D   0714Engraxate                                                               Engx            
+D   0234Escoteiro                                                               Esct            
+D   0242Escrava                                                                 Eva             
+D   0244Escravo                                                                 Evo             
+D   0924Escrevente                                                              Escrev          
+D   0232Escritor                                                                Esc             
+D   0233Escritora                                                               Esca            
+D   0686Escrivã                                                                 Escr            
+D   0243Escrivão                                                                Evao            
+D   0240Escultor                                                                Etor            
+D   0241Escultora                                                               Etora           
+D   0235Esportista                                                              Esp             
+D   0236Estatística                                                             Esta            
+D   0237Estatístico                                                             Esto            
+D   0239Estivador                                                               Estv            
+D   0238Estudante                                                               Estud           
+D   0894Evangélica                                                              Evg             
+D   0698Evangélico                                                              Ev              
+D   0886Evangelista                                                             Evangel         
+D   0933Evangelizadora                                                          Evglizadora     
+D   0706Exator                                                                  Etr             
+D   0584Ex-Combatente                                                           Ex-Comb         
+D   0245Expedicionário                                                          Exp             
+D   0747Expedicionário Cabo                                                     Exp Cb          
+D   0826Expedicionários                                                         Exps            
+D   0748Ex-Prefeito                                                             Ex-Pref         
+D   0623Farmacêutica                                                            Farmac          
+D   0246Farmacêutico                                                            Farm            
+D   0868Fazendeiro                                                              Fzo             
+D   0248Feirante                                                                Fei             
+D   0253Ferroviária                                                             Frva            
+D   0254Ferroviário                                                             Fro             
+D   0255Filantropo                                                              Ftpo            
+D   0699Filósofo                                                                Fil             
+D   0250Fiscal                                                                  Fisc            
+D   0657Fiscal de Trânsito                                                      Fisc Trans      
+D   0249Físico                                                                  Fis             
+D   0687Folclorista                                                             Folc            
+D   0585Folião                                                                  Flo             
+D   0884Fotógrafa                                                               Fotª            
+D   0251Fotógrafo                                                               Fot             
+D   0586Fotógrafo Jornalístico                                                  Fot Jorn        
+D   0247Frade                                                                   Fde             
+D   0252Frei                                                                    Fr              
+D   0800Frei Madre                                                              Fr Me           
+D   0791Frei Santa                                                              Fr Sta          
+D   0825Frei São                                                                Fr S            
+D   0908Freira                                                                  Fra             
+D   0662Funcionária                                                             Funcª           
+D   0869Funcionária Pública                                                     Funcª Publ      
+D   0661Funcionário                                                             Func            
+D   0859Funcionário Público                                                     Func Publ       
+D   0256Fundador                                                                Fund            
+D   0922Funileiro                                                               Funil           
+D   0257Furriel                                                                 Furr            
+D   0258Fuzileiro                                                               Fuz             
+D   0914Garçon                                                                  Gar             
+D   0264General                                                                 Gen             
+D   0587General de Brigada                                                      Gen-Brig        
+D   0632General de Divisão                                                      Gen-Div         
+D   0633General de Exército                                                     Gen-Ex          
+D   0812General Doutor                                                          Gen Dr          
+D   0713Generalíssimo                                                           Genrl           
+D   0741Geógrafo                                                                Geogr           
+D   0265Governador                                                              Gov             
+D   0860Governador Doutor                                                       Gov Dr          
+D   0807Governador General                                                      Gov Gen         
+D   0752Grã-Duquesa                                                             Gr-Dqa          
+D   0463Gráfico                                                                 Graf            
+D   0266Grão                                                                    Gr              
+D   0588Grão-Mestre                                                             Gr-Mte          
+D   0259Guarda                                                                  Gda             
+D   0642Guarda de Trânsito                                                      Gda-Trans       
+D   0841Guarda Municipal                                                        Gda Mun         
+D   0917Guarda Territorial                                                      Gt              
+D   0260Guarda-Civil                                                            Gda-Civ         
+D   0261Guarda-Marinha                                                          Gda-M           
+D   0262Guarda-Mor                                                              Gda-Mor         
+D   0263Guardião                                                                Gdao            
+D   0267Guerreiro                                                               Guer            
+D   0284Herói                                                                   Hro             
+D   0283Heroína                                                                 Hra             
+D   0280Hidrógrafo                                                              Hidgo           
+D   0282Historiador                                                             Histo           
+D   0281Historiadora                                                            Hista           
+D   0609Humorista                                                               Hum             
+D   0589Ilustrador                                                              Ilust           
+D   0288Imaculada                                                               Imac            
+D   0736Imigrante                                                               Imig            
+D   0891Imigrantes                                                              Imigs           
+D   0290Imperador                                                               Imp             
+D   0789Imperador Dom                                                           Imp D           
+D   0291Imperatriz                                                              Impz            
+D   0779Imperatriz Dona                                                         Impz Da         
+D   0286Índia                                                                   Ida             
+D   0285Índio                                                                   Id              
+D   0292Industrial                                                              Ind             
+D   0293Infante                                                                 Inf             
+D   0700Infante Dom                                                             Inf D           
+D   0294Inspetor                                                                Insp            
+D   0295Inspetora                                                               Inspa           
+D   0296Intendente                                                              Int             
+D   0297Intendente Coronel                                                      Int Cel         
+D   0298Intendente Doutor                                                       Int Dr          
+D   0615Interdistrital Comendador                                               Intr-Cdor       
+D   0301Interventor                                                             Invo            
+D   0300Investigador                                                            Intgo           
+D   0898Investigador de Polícia                                                 Intgo Pol       
+D   0299Investigadora                                                           Intga           
+D   0287Irmã                                                                    Ima             
+D   0289Irmão                                                                   Imo             
+D   0680Irmãos                                                                  Imos            
+D   0712Irmãs                                                                   Imas            
+D   0852Jangadeiro                                                              Jan             
+D   0303Jardineira                                                              Jarda           
+D   0302Jardineiro                                                              Jard            
+D   0304Jornalista                                                              Jorn            
+D   0761Jornalista Doutor                                                       Jorn Dr         
+D   0727Jovem                                                                   Jov             
+D   0307Juiz                                                                    Jz              
+D   0816Juiz de Direito                                                         Jz Dir          
+D   0628Juiz de Direito Doutor                                                  Jz Dir Dr       
+D   0306Jurista                                                                 Jur             
+D   0590Laboratorista                                                           Lab             
+D   0876Lavrador                                                                Lav             
+D   0308Legionário                                                              Leg             
+D   0309Leiloeiro                                                               Leil            
+D   0310Libertador                                                              Lib             
+D   0772Libertador Dom                                                          Lib D           
+D   0889Líder Comunitário                                                       Lid Com         
+D   0311Livreiro                                                                Liv             
+D   0744Locutor                                                                 Loc             
+D   0606Lord                                                                    Lord            
+D   0329Madame                                                                  Mme             
+D   0322Madre                                                                   Me              
+D   0756Madre Abadessa                                                          Me Abª          
+D   0313Madrinha                                                                Mad             
+D   0314Madrinheiro                                                             Mado            
+D   0691Mãe                                                                     Mãe             
+D   0338Maestro                                                                 Mto             
+D   0773Maestro Reverendo                                                       Mto Rev         
+D   0315Magistrado                                                              Mag             
+D   0316Major                                                                   Maj             
+D   0622Major Aviador                                                           Maj Av          
+D   0634Major de Exército                                                       Maj-Ex          
+D   0758Major Doutor                                                            Maj Dr          
+D   0317Major Médico                                                            Maj Med         
+D   0621Major-Brigadeiro                                                        Maj-Brg         
+D   0591Major-Brigadeiro-do-Ar                                                  Maj-Brg-Ar      
+D   0455Major-Polícia Militar                                                   Maj-PM          
+D   0320Maquinista                                                              Maq             
+D   0651Marchante                                                               March           
+D   0318Marechal                                                                Mal             
+D   0818Marechal Doutor                                                         Mal Dr          
+D   0319Marechal-do-Ar                                                          Mal-Ar          
+D   0321Marinheiro                                                              Mar             
+D   0333Marquês                                                                 Mq              
+D   0334Marquesa                                                                Mqa             
+D   0641Mecânico                                                                Mec             
+D   0880Médica                                                                  Medª            
+D   0323Médico                                                                  Med             
+D   0734Médico Industrial                                                       Med Ind         
+D   0732Médium                                                                  Medm            
+D   0325Menina                                                                  Menª            
+D   0324Menino                                                                  Men             
+D   0731Mensageiro                                                              Mens            
+D   0336Mestra                                                                  Mta             
+D   0337Mestre                                                                  Mte             
+D   0618Metalúrgico                                                             Met             
+D   0327Ministro                                                                Min             
+D   0780Ministro Doutor                                                         Min Dr          
+D   0701Miss                                                                    Miss            
+D   0664Missionária                                                             Misa            
+D   0328Missionário                                                             Mis             
+D   0335Mister                                                                  Mr              
+D   0326Monge                                                                   Mge             
+D   0331Monitor                                                                 Mon             
+D   0330Monsenhor                                                               Mns             
+D   0786Monsenhor Dom                                                           Mns D           
+D   0592Monsenhor Doutor                                                        Mns Dr          
+D   0312Monsieur                                                                Msr             
+D   0332Motorista                                                               Mot             
+D   0864Musicista                                                               Music           
+D   0464Músico                                                                  Mus             
+D   0457Naturalista                                                             Nat             
+D   0704Navegador                                                               Nav             
+D   0890Nono                                                                    Nono            
+D   0867Normalista                                                              Nor             
+D   0656Nossa Senhora                                                           N Sra           
+D   0796Nossa Senhora Imaculada                                                 N Sra Imac      
+D   0655Nosso Senhor                                                            N Sr            
+D   0268Núncio                                                                  Nco             
+D   0888Nutricionista                                                           Nutra           
+D   0843Odontólogo                                                              Odont           
+D   0593Oficial de Justiça                                                      Of Just         
+D   0919Ogum                                                                    Og              
+D   0272Operador                                                                Ope             
+D   0271Operário                                                                Op              
+D   0273Ouvidor                                                                 Ouv             
+D   0918Oxóssi                                                                  Ox              
+D   0820Padeiro                                                                 Pdo             
+D   0350Padre                                                                   Pe              
+D   0784Padre Cônego                                                            Pe Con          
+D   0760Padre Dom                                                               Pe D            
+D   0929Padre Frei                                                              Pe Fr           
+D   0781Padre Santo                                                             Pe Sto          
+D   0822Padre Segundo                                                           Pe Seg          
+D   0828Padres                                                                  Pes             
+D   0274Padrinho                                                                Pad             
+D   0688Padroeiro                                                               Padr            
+D   0720Pai                                                                     Pai             
+D   0724Paisagista                                                              Paisag          
+D   0488Papa                                                                    Papa            
+D   0774Papa Santo                                                              Papa Sto        
+D   0824Papa São                                                                Papa S          
+D   0347Parteira                                                                Part            
+D   0805Parteira Dona                                                           Part Da         
+D   0836Parteira Mãe                                                            Part Mãe        
+D   0376Pastor                                                                  Pst             
+D   0377Pastora                                                                 Psta            
+D   0348Patrão                                                                  Pat             
+D   0349Patrão-Mor                                                              Pat-Mor         
+D   0379Patriarca                                                               Ptca            
+D   0838Patriota                                                                Patr            
+D   0381Patrono                                                                 Ptno            
+D   0383Patrulheira                                                             Ptra            
+D   0384Patrulheiro                                                             Ptro            
+D   0682Pedestre                                                                Ped             
+D   0735Pedreiro                                                                Pedr            
+D   0351Perito                                                                  Per             
+D   0352Pescador                                                                Pesc            
+D   0358Pianista                                                                Pnta            
+D   0353Piloto                                                                  Pil             
+D   0382Pintor                                                                  Pto             
+D   0378Pintora                                                                 Pta             
+D   0355Pioneira                                                                Piona           
+D   0354Pioneiro                                                                Pion            
+D   0797Pioneiro Santo                                                          Pio Sto         
+D   0878Poceiro                                                                 Poc             
+D   0359Poeta                                                                   Poe             
+D   0360Poetisa                                                                 Pot             
+D   0906Policial                                                                Pol             
+D   0356Policial Militar                                                        PM              
+D   0658Portuário                                                               Port            
+D   0893Postalista                                                              Post            
+D   0881Praça                                                                   Prç             
+D   0361Pracinha                                                                Prac            
+D   0363Prefeita                                                                Prefa           
+D   0787Prefeita Santa                                                          Prefa Sta       
+D   0362Prefeito                                                                Pref            
+D   0492Prefeito Coronel                                                        Pref-Cel        
+D   0790Prefeito Doutor                                                         Pref Dr         
+D   0365Presbítero                                                              Presb           
+D   0364Presidente                                                              Pres            
+D   0629Presidente Barão                                                        Pres Br         
+D   0832Presidente Doutor                                                       Pres Dr         
+D   0806Presidente General                                                      Pres Gen        
+D   0750Presidente Marechal                                                     Pres Mal        
+D   0357Primeiro-Ministro                                                       P-Min           
+D   0375Primeiro-Sargento                                                       P-Srg           
+D   0875Primeiro-Sargento PM                                                    P-Srg-PM        
+D   0380Primeiro-Tenente                                                        P-Ten           
+D   0454Primeiro-Tenente-Aviador                                                P-Ten-Av        
+D   0794Primo                                                                   Pmo             
+D   0366Princesa                                                                Prca            
+D   0777Princesa Dona                                                           Prca Da         
+D   0367Príncipe                                                                Prce            
+D   0710Príncipe Dom                                                            Prce D          
+D   0370Procurador                                                              Proc            
+D   0368Professor                                                               Prf             
+D   0837Professor Capitão                                                       Prf Cap         
+D   0763Professor Doutor                                                        Prf Dr          
+D   0769Professor Engenheiro                                                    Prf Eng         
+D   0799Professor Índio                                                         Prf Id          
+D   0810Professor Irmão                                                         Prf Irmo        
+D   0719Professor Padre                                                         Prf Pe          
+D   0813Professor Velho                                                         Prf Vo          
+D   0369Professora                                                              Prfa            
+D   0739Professora Dona                                                         Prfa Da         
+D   0612Professora Doutora                                                      Prfa Dra        
+D   0811Professora Senhorinha                                                   Prfa Snr        
+D   0782Professora Sinhá                                                        Prfa Sinha      
+D   0374Profeta                                                                 Prta            
+D   0371Programador                                                             Prog            
+D   0372Promotor                                                                Prom            
+D   0857Promotora                                                               Proma           
+D   0373Provedor                                                                Prov            
+D   0829Provedor Marquês                                                        Prov Mq         
+D   0809Provedor-Conselheiro                                                    Prov-Cnso       
+D   0737Psicanalista                                                            Psican          
+D   0640Psicóloga                                                               Psic            
+D   0385Publicitário                                                            Publ            
+D   0386Químico                                                                 Quim            
+D   0387Rabino                                                                  Rab             
+D   0388Radialista                                                              Rad             
+D   0659Rádio-Amador                                                            Rad-Am          
+D   0738Radiotelegrafista                                                       Radioteleg      
+D   0393Rainha                                                                  Rnh             
+D   0613Rainha Dona                                                             Rnh Da          
+D   0390Regente                                                                 Reg             
+D   0616Rei                                                                     Rei             
+D   0394Reitor                                                                  Rto             
+D   0595Remador                                                                 Rem             
+D   0391Repórter                                                                Rep             
+D   0844Reverendíssimo                                                          Revmo           
+D   0392Reverendo                                                               Rev             
+D   0635Reverendo Doutor                                                        Rev Dr          
+D   0755Reverendo Professor                                                     Rev Prf         
+D   0913Ritmista                                                                Ritma           
+D   0444Sacerdote                                                               Sac             
+D   0745Sanfoneiro                                                              Sanf            
+D   0491Santa                                                                   Sta             
+D   0759Santa Madre                                                             Sta Me          
+D   0721Santíssima                                                              Sant            
+D   0493Santo                                                                   Sto             
+D   0795Santo Beato                                                             Sto Bto         
+D   0624Santo Papa                                                              Sto-Papa        
+D   0743Santos                                                                  Stos            
+D   0489São                                                                     S               
+D   0625São Papa                                                                S-Papa          
+D   0877Sapateiro                                                               Sapto           
+D   0398Sargento                                                                Srg             
+D   0638Sargento Aviador                                                        Srg Av          
+D   0915Sargento Bombeiro                                                       Srg-Bomb        
+D   0636Sargento da Aeronáutica                                                 Srg-Aer         
+D   0862Sargento Rodoviário                                                     Srg-Rod         
+D   0620Sargento-Expedicionário                                                 Srg-Exp         
+D   0399Sargento-Mor                                                            Srg-Mor         
+D   0637Sargento-Polícia Militar                                                Srg-PM          
+D   0343Secretária                                                              Seta            
+D   0344Secretário                                                              Seto            
+D   0403Segundo-Sargento                                                        S-Srg           
+D   0647Segundo-Sargento-PM                                                     S-Srg-PM        
+D   0405Segundo-Tenente                                                         S-Ten           
+D   0406Segundo-Tenente-Aviador                                                 S-Ten-Av        
+D   0446Seminarista                                                             Semin           
+D   0339Senador                                                                 Sen             
+D   0340Senadora                                                                Sena            
+D   0653Senhor                                                                  Sr              
+D   0654Senhora                                                                 Sra             
+D   0754Senhora Dona                                                            Sra Da          
+D   0396Senhorinha                                                              Srha            
+D   0839Senhorita                                                               Srta            
+D   0733Seresteiro                                                              Serest          
+D   0597Seringueiro                                                             Sering          
+D   0341Serralheiro                                                             Serr            
+D   0342Sertanista                                                              Sert            
+D   0896Serventuário                                                            Servt           
+D   0833Servidor                                                                Serv            
+D   0905Servidor Público Municipal                                              Serv Pub Mun    
+D   0345Sinaleiro                                                               Sin             
+D   0346Sindicalista                                                            Sind            
+D   0395Sinhá                                                                   Snh             
+D   0907Sinhazinha                                                              Snhz            
+D   0814Sinhô                                                                   Sinh            
+D   0614Sir                                                                     Sir             
+D   0466Sociólogo                                                               Soc             
+D   0445Soldado                                                                 Sd              
+D   0785Soldado Bombeiro                                                        Sd Bomb         
+D   0666Soldado Constitucionalista                                              Sd Const        
+D   0619Soldado-Expedicionário                                                  Sd-Exp          
+D   0611Soldado-Polícia Militar                                                 Sd-PM           
+D   0400Soror                                                                   Sro             
+D   0397Suboficial                                                              So              
+D   0408Subtenente                                                              Subten          
+D   0409Subtenente-Aviador                                                      Subten-Av       
+D   0851Sultão                                                                  Sul             
+D   0927Supervisor                                                              Sup             
+D   0410Tabelião                                                                Tab             
+D   0871Tabelião Público                                                        Tab Publ        
+D   0412Taberneiro                                                              Tbro            
+D   0411Taifeiro                                                                Taf             
+D   0872Taxista                                                                 Tax             
+D   0598Teatrólogo                                                              Teat            
+D   0718Técnico                                                                 Tec             
+D   0599Técnico Agrícola                                                        Tec-Agr         
+D   0413Telefonista                                                             Telf            
+D   0414Telegrafista                                                            Telg            
+D   0415Tenente                                                                 Ten             
+D   0831Tenente Maestro                                                         Ten Mto         
+D   0416Tenente-Aviador                                                         Ten-Av          
+D   0600Tenente-Brigadeiro                                                      Ten-Brg         
+D   0417Tenente-Coronel                                                         Ten-Cel         
+D   0702Tenente-Coronel-Aviador                                                 Ten-Cel-Av      
+D   0865Tenente-Coronel-PM                                                      Ten-Cel-PM      
+D   0639Tenente-General                                                         Ten-Gen         
+D   0601Tenente-Polícia Militar                                                 Ten-Pm          
+D   0920Tenista                                                                 Tnis            
+D   0420Tenor                                                                   Tnr             
+D   0425Terceiro-Sargento                                                       T-Srg           
+D   0626Terceiro-Sargento-Polícia Militar                                       T-Srg-PM        
+D   0418Tesoureiro                                                              Tes             
+D   0494Tia                                                                     Tia             
+D   0490Tio                                                                     Tio             
+D   0419Tipógrafo                                                               Tip             
+D   0421Topógrafo                                                               Top             
+D   0617Trabalhador                                                             Trab            
+D   0683Tradicionalista                                                         Trad            
+D   0422Treinador                                                               Trn             
+D   0423Trovador                                                                Trov            
+D   0709Trovadora                                                               Trovª           
+D   0427Universitária                                                           Univa           
+D   0426Universitário                                                           Univ            
+D   0690Vaqueiro                                                                Vaq             
+D   0707Velha                                                                   Va              
+D   0689Velho                                                                   Velho           
+D   0665Venerável                                                               Ven             
+D   0429Vereador                                                                Ver             
+D   0798Vereador Cacique                                                        Ver Cac         
+D   0649Vereador Doutor                                                         Ver Dr          
+D   0801Vereador Engenheiro                                                     Ver Eng         
+D   0827Vereador Professor                                                      Ver Prf         
+D   0430Vereadora                                                               Vera            
+D   0726Veterano                                                                Vet             
+D   0431Veterinária                                                             Veta            
+D   0432Veterinário                                                             Veto            
+D   0428Vice-Almirante                                                          V-Alm           
+D   0602Vice-Cônsul                                                             V-Csl           
+D   0433Vice-Governador                                                         V-Gov           
+D   0850Vicentino                                                               Vic             
+D   0441Vice-Prefeito                                                           V-Pref          
+D   0442Vice-Presidente                                                         V-Pres          
+D   0815Vice-Rei                                                                V-Rei           
+D   0436Vigário                                                                 Vig             
+D   0892Vigia                                                                   Vga             
+D   0434Vigilante                                                               Vgte            
+D   0437Violeiro                                                                Viol            
+D   0644Violinista                                                              Violin          
+D   0435Violoncelista                                                           Vcta            
+D   0603Violonista                                                              Violon          
+D   0438Virgem                                                                  Vir             
+D   0447Visconde                                                                Vsc             
+D   0448Viscondessa                                                             Vsca            
+D   0449Viúva                                                                   Vva             
+D   0930Vó                                                                      Vó              
+D   0439Voluntária                                                              Vlta            
+D   0440Voluntário                                                              Vlto            
+D   0681Voluntários                                                             Vltos           
+D   0604Vovó                                                                    Vovó            
+D   0605Vovô                                                                    Vovô            
+#

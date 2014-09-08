@@ -1,0 +1,32 @@
+C V1104  28 DEZ 2011    © COPYRIGHT CORREIOS                 FAIXAS DE CEP POR UF                                             
+DBRAC  01Acre                                                                    01 01 69900000/69999999 
+DBRAL  02Alagoas                                                                 01 01 57000000/57999999 
+DBRAM  04Amazonas                                                                02 01 69000000/69299999 
+DBRAM  04Amazonas                                                                02 02 69400000/69899999 
+DBRAP  03Amapá                                                                   01 01 68900000/68999999 
+DBRBA  05Bahia                                                                   01 01 40000000/48999999 
+DBRCE  06Ceará                                                                   01 01 60000000/63999999 
+DBRDF  07Distrito Federal                                                        02 01 70000000/72799999 
+DBRDF  07Distrito Federal                                                        02 02 73000000/73699999 
+DBRES  08Espírito Santo                                                          01 01 29000000/29999999 
+DBRGO  10Goiás                                                                   02 01 72800000/72999999 
+DBRGO  10Goiás                                                                   02 02 73700000/76799999 
+DBRMA  11Maranhão                                                                01 01 65000000/65999999 
+DBRMG  14Minas Gerais                                                            01 01 30000000/39999999 
+DBRMS  13Mato Grosso do Sul                                                      01 01 79000000/79999999 
+DBRMT  12Mato Grosso                                                             01 01 78000000/78899999 
+DBRPA  15Pará                                                                    01 01 66000000/68899999 
+DBRPB  16Paraíba                                                                 01 01 58000000/58999999 
+DBRPE  18Pernambuco                                                              01 01 50000000/56999999 
+DBRPI  19Piauí                                                                   01 01 64000000/64999999 
+DBRPR  17Paraná                                                                  01 01 80000000/87999999 
+DBRRJ  20Rio de Janeiro                                                          01 01 20000000/28999999 
+DBRRN  21Rio Grande do Norte                                                     01 01 59000000/59999999 
+DBRRO  23Rondônia                                                                01 01 76800000/76999999 
+DBRRR  09Roraima                                                                 01 01 69300000/69399999 
+DBRRS  22Rio Grande do Sul                                                       01 01 90000000/99999999 
+DBRSC  25Santa Catarina                                                          01 01 88000000/89999999 
+DBRSE  27Sergipe                                                                 01 01 49000000/49999999 
+DBRSP  26São Paulo                                                               01 01 01000000/19999999 
+DBRTO  24Tocantins                                                               01 01 77000000/77999999 
+#

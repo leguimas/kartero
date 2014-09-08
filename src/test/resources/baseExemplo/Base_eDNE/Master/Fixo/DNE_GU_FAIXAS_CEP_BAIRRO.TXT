@@ -1,0 +1,61 @@
+C V1104  30 DEZ 2011    © COPYRIGHT CORREIOS                 FAIXAS DE CEP POR BAIRRO DE LOCALIDADE CODIFICADA POR LOGRADOUROS                                                                                                 
+D  01AC      00000001Acrelândia                                                                   00039331Centro                                                                  01 01 69945000/69945999 
+D  01AC      00000002Assis Brasil                                                                 00039329Centro                                                                  01 01 69935000/69935999 
+D  01AC      00000003Brasiléia                                                                    00039327Centro                                                                  01 01 69932000/69932999 
+D  01AC      00000004Bujari                                                                       00039321Centro                                                                  01 01 69926000/69926999 
+D  01AC      00000005Capixaba                                                                     00039323Centro                                                                  01 01 69931000/69931999 
+D  01AC      00000006Cruzeiro do Sul                                                              00039337Centro                                                                  01 01 69980000/69980999 
+D  01AC      00000007Epitaciolândia                                                               00039328Centro                                                                  01 01 69934000/69934999 
+D  01AC      00000008Feijó                                                                        00039334Centro                                                                  01 01 69960000/69960999 
+D  01AC      00000009Jordão                                                                       00039336Centro                                                                  01 01 69975000/69975999 
+D  01AC      00000010Mâncio Lima                                                                  00039341Centro                                                                  01 01 69990000/69990999 
+D  01AC      00000011Manoel Urbano                                                                00039332Centro                                                                  01 01 69950000/69950999 
+D  01AC      00000012Marechal Thaumaturgo                                                         00039339Centro                                                                  01 01 69983000/69983999 
+D  01AC      00000013Plácido de Castro                                                            00039325Centro                                                                  01 01 69928000/69928999 
+D  01AC      00000014Porto Acre                                                                   00039322Centro                                                                  01 01 69927000/69927999 
+D  01AC      00000015Porto Walter                                                                 00039338Centro                                                                  01 01 69982000/69982999 
+D  01AC      00000016Rio Branco                                                                   000554457º BEC                                                                  01 01 69918090/69918119 
+D  01AC      00000016Rio Branco                                                                   00000001Abrahão Alab                                                            01 01 69918040/69918069 
+D  01AC      00000016Rio Branco                                                                   00000002Adalberto Aragão                                                        01 01 69901160/69901199 
+D  01AC      00000016Rio Branco                                                                   00000003Aeroporto Velho                                                         01 01 69911030/69911119 
+D  01AC      00000016Rio Branco                                                                   00051880Alto Alegre                                                             01 01 69921230/69921379 
+D  01AC      00000016Rio Branco                                                                   00000005Areal                                                                   01 01 69906000/69906129 
+D  01AC      00000016Rio Branco                                                                   00000006Aviário                                                                 01 01 69900830/69900899 
+D  01AC      00000016Rio Branco                                                                   00055425Ayrton Senna                                                            01 01 69911800/69911899 
+D  01AC      00000016Rio Branco                                                                   00000008Bahia Nova                                                              01 01 69911650/69911759 
+D  01AC      00000016Rio Branco                                                                   00000007Bahia Velha                                                             01 01 69911560/69911649 
+D  01AC      00000016Rio Branco                                                                   00000009Baixa da Colina                                                         01 01 69901310/69901359 
+D  01AC      00000016Rio Branco                                                                   00055405Baixada da Cadeia Velha                                                 01 01 69905270/69905319 
+D  01AC      00000016Rio Branco                                                                   00055404Baixada da Habitasa                                                     01 01 69905130/69905189 
+D  01AC      00000016Rio Branco                                                                   00000010Base                                                                    01 01 69900001/69900049 
+D  01AC      00000016Rio Branco                                                                   00055413Belo Jardim I                                                           01 01 69907780/69907899 
+D  01AC      00000016Rio Branco                                                                   00055414Belo Jardim II                                                          01 01 69908000/69908119 
+D  01AC      00000016Rio Branco                                                                   00055451Boa Esperança                                                           01 01 69918510/69918549 
+D  01AC      00000016Rio Branco                                                                   00055424Boa União                                                               01 01 69911760/69911799 
+D  01AC      00000016Rio Branco                                                                   00055427Boa Vista                                                               01 01 69912120/69912179 
+D  01AC      00000016Rio Branco                                                                   00000012Bosque                                                                  01 01 69900370/69900769 
+D  01AC      00000016Rio Branco                                                                   00000014Cadeia Velha                                                            01 01 69905190/69905269 
+D  01AC      00000016Rio Branco                                                                   00000015Calafate                                                                01 01 69914310/69914439 
+D  01AC      00000016Rio Branco                                                                   00000016Capoeira                                                                01 01 69905000/69905049 
+D  01AC      00000016Rio Branco                                                                   00055389Casa Nova                                                               01 01 69901270/69901309 
+D  01AC      00000016Rio Branco                                                                   00000017Centro                                                                  01 01 69900050/69900099 
+D  01AC      00000016Rio Branco                                                                   00000018Cerâmica                                                                01 01 69905050/69905079 
+D  01AC      00000016Rio Branco                                                                   00055395Chico Mendes                                                            01 01 69902630/69902749 
+D  01AC      00000016Rio Branco                                                                   00000019Chácara Ipê                                                             01 01 69917520/69917599 
+D  01AC      00000016Rio Branco                                                                   00000013Cidade Nova                                                             01 01 69905400/69905489 
+D  01AC      00000016Rio Branco                                                                   00055410Comara                                                                  01 01 69906310/69906389 
+D  01AC      00000016Rio Branco                                                                   00055476Conjunto Adalberto Sena                                                 01 01 69921150/69921229 
+D  01AC      00000016Rio Branco                                                                   00055422Conjunto Bela Vista                                                     01 01 69911280/69911379 
+D  01AC      00000016Rio Branco                                                                   00055421Conjunto Castelo Branco                                                 01 01 69911220/69911279 
+D  01AC      00000016Rio Branco                                                                   00055434Conjunto Esperança                                                      01 01 69915110/69915189 
+D  01AC      00000016Rio Branco                                                                   00055390Conjunto Guiomard Santos                                                01 01 69901360/69901449 
+D  01AC      00000016Rio Branco                                                                   00055436Conjunto Habitacional Vila Betel 2                                      01 01 69915270/69915349 
+D  01AC      00000016Rio Branco                                                                   00055438Conjunto Habitar Brasil                                                 01 01 69915370/69915409 
+D  01AC      00000016Rio Branco                                                                   00055387Conjunto Jardim São Francisco                                           01 01 69901000/69901039 
+D  01AC      00000016Rio Branco                                                                   00055440Conjunto Jardim Universitário                                           01 01 69917500/69917519 
+D  01AC      00000016Rio Branco                                                                   00055430Conjunto Laélia Alcântara                                               01 01 69914440/69914519 
+D  01AC      00000016Rio Branco                                                                   00055448Conjunto Manoel Julião                                                  01 01 69918410/69918459 
+D  01AC      00000016Rio Branco                                                                   00055466Conjunto Mariana                                                        01 01 69919180/69919229 
+D  01AC      00000016Rio Branco                                                                   00055443Conjunto Mascarenha de Moraes                                           01 01 69918000/69918039 
+D  01AC      00000016Rio Branco                                                                   00055391Conjunto Oscar Passos                                                   01 01 69901640/69901679 
+#

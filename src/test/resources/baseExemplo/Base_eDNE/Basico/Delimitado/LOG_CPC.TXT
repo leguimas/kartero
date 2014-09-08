@@ -1,0 +1,60 @@
+1998@DF@1778@Córrego do Arrozal@Rodovia BR-020 km 13 (entrada após o Bar do Mocotó)@73007995
+1999@DF@1778@Ponte Alta Norte@Rodovia DF-475 km  05 (ao lado da Escola Classe Ponte Alta Norte)@72457993
+2000@DF@1778@Ponte Alta@Rodovia DF-180 km 65, Chácara 1MD20@72457994
+2435@DF@1778@Vale do Palha@Estrada Parque Paranoá Norte - SMLN - MI 3/5(4,5 km depois do Varjão-Esc. Palha)@71507992
+2436@DF@1778@Vila Estrutural@Baixa Estrutural - Entrada do Aterro Sanitário@71300990
+2438@DF@1778@Boa Esperança@BR-190 km 02 (Entrada do Núcleo Rural Boa Esperança)@72227991
+2439@DF@1778@Engenho das Lages@BR-060 km 32 - Agrovila (sede da ACEL)@72457996
+2441@DF@1778@Núcleo Residencial das Palmeiras@Rodovia DF-475 km 01 - Residencial das Palmeiras@72457995
+2442@DF@1778@Fercal Leste@BR-205 km 01 - Fercal Leste (Posto Telefônico)@73007996
+2513@ES@1847@Ponte de Pancas@Rodovia Gether Lopes de Farias, s/n@29719994
+2514@ES@1847@Bairro Barbados@Rua Santo Antonio, s/n@29700990
+2515@ES@1847@Itapina@Avenida Eliza Casttiolhoni Rosa, s/n@29714990
+2516@ES@1847@Paul de Graça Aranha@Rua Principal, s/n@29716990
+2605@DF@1778@Olhos D'Água@DF- 003 km 7,5 (ao lado da Igreja)@71507993
+2708@ES@1847@Baunilha@Rua Principal, s/n@29712990
+3038@DF@1778@Capoeira do Bálsamo@DF- 015 km 2,5 (Quiosque do Coco)@71507994
+3492@ES@1847@15 de Outubro@Rodovia Gether Lopes de Farias, s/n@29719995
+3493@ES@1847@Boapaba@Rua Santa Maria, s/n@29710990
+3505@DF@1778@Tabatinga@Rod DF-120 Km 2,5 (Centro Comunitário da Colônia Agrícola Tabatinga)@73307997
+3802@DF@1778@Rua do Mato Fercal@DF-150 km 11, Rua do Mato@73007997
+3872@AC@16@Benfica@Ramal Benfica, s/n@69902992
+3928@DF@1778@Vargem Bonita@Area Especial Qd. 9@71707994
+3955@DF@1778@Núcleo Rural Jerivá@Estrada Parque Paranoá Norte - EMLN ML Trecho 3@71540990
+4357@DF@1778@Nova Betânia@Rodovia BR_251 Km 56@71693990
+4365@DF@1778@Condomínio Eldorado Mansões Campestre@Rodovia DF-290 km 11 (via de Acesso)@72410990
+4366@DF@1778@Sobradinho dos Melos@Rodovia DF-250 Km 5@71573990
+4368@DF@1778@Capão da Erva@Rodovia DF-250 Km 8 Centro Comunitário@71573991
+4372@DF@1778@Quebrada dos Neres e Quebrada dos Guimarães@Rodovia DF-130 Km 31 Escola Classe Café sem Troco@71570990
+4636@DF@1778@Condomínio Quintas do Amarante@Rodovia DF-180 km 4 (Portaria do Condomínio)@72227992
+4641@DF@1778@Chapadinha e Circunvizinhas@Rodovia DF-435 km 6,5@72710990
+4642@DF@1778@Vale do Curralinho@Rodovia BR-080 km 18 (Chácara 47)@72738990
+4643@DF@1778@Jardim Serra Dourada@Rodovia DF-290 km 11,5 (Depois do Posto BR)@72415990
+4769@DF@1778@Corrego do Atoleiro@Rodovia DF-345 km 5,5 Chácara Bom Jesus Nº 10@73370990
+4770@DF@1778@Núcleo Rural Sarandy@Rodovia BR-020 km 18 Entrada da Embrapa CPAC Planaltina@73380990
+4771@DF@1778@Núcleo Rural Sítios Agrovalle@Rodovia DF-130 km 5@73370991
+4806@DF@1778@SHPS@SHPS@72237990
+5026@DF@1778@Quintas do Rio Maranhão@DF-128 Cruzamento com DF-205 Posto da CPRV Entre Planaltina-DF e Planaltina-GO@73380991
+5027@DF@1778@Núcleo Rural Boqueirão@Rodovia DF-001 km 15 Sede da Associação ao Lado da Escola Classe Boqueirão@71573992
+5389@DF@1778@Boa Vista@Rodovia DF-205, km 6@73151990
+5498@DF@1778@Residencial Serra Verde@Rodovia DF-440, km 10 - Núcleo Rural de Sobradinho@73271990
+5521@DF@1778@Vale do Sucupira@Colônia Agrícola Vale do Sucupira Chácara 5 Lote 17@71884990
+5541@DF@1778@Estrela Maior - Assentamento Betinho@Rodovia DF-220 km 6@72710991
+5543@DF@1778@Largo da Pedra Fundamental@Rodovia DF-128 km 13 - Largo da Pedra Fundamental@73376990
+5567@DF@1778@INCRA 6 (Alexandre Gusmão)@Rodovia DF-445 km 1,5 COSIR - Condomínio do Sistema de Irrigação Rodeador@72701994
+5575@DF@1778@Ponte Alta de Cima@Rodovia DF-290 km 26 - Sub-Administração da Ponte Alta@72457997
+5576@DF@1778@Fazenda Larga - APROFAL@Rodovia BR-020 km 49 - VC 107 Núcleo Rural Fazenda Larga Lotes 11 e 13@73380992
+5577@DF@1778@Associação dos Produtores Rurais do Vale Verde - Aprovale@Rodovia DF-128 km 7 - Associação dos Produtores Rurais do Vale Verde - Aprovale@73376991
+5578@DF@1778@Rajadinha II@Rodovia DF-130 km 11 - Associação dos Moradores do Núcleo Rural Rajadinha@73370992
+5718@DF@1778@Rajadinha III@Rodovia DF-250 km 14,5@73370993
+5841@DF@1778@Núcleo Rural Monjolo@Rodovia DF-131 Km 5@73380993
+5919@DF@1778@Núcleo Rural do Jardim@Rodovia DF 285 km 23@73370994
+5932@DF@1778@Morada dos Pássaros I e II@Rodovia DF-220 km 03@72770990
+6104@DF@1778@Prefeitura Comunitária Alexandre Gusmão@Quadra 08 Lote 08 INCRA 08@72701995
+6105@DF@1778@Associação de Moradores e Produtores Rurais do Núcleo Rural Chapada@Núcleo Rural Chapada - DF 135@71693993
+6113@DF@1778@Associação dos Moradores do Condomínio Vivendas Nova Petrópolis@Rodovia BR-020 Km 16@73007998
+6140@DF@1778@Associação Comunitária dos Moradores de Queima Lençol@Rodovia DF-205, Km 4@73151991
+6142@DF@1778@Associação dos Produtores Rurais da Colônia Agrícola Aguilhada@Rodovia BR-251 - Km 69@71693994
+6148@DF@1778@Associação Fraterna Irmã Maria Regina@Núcleo Rural Alexandre Gusmão Gleba 2 - Chacara 118-A@72701996
+6149@DF@1778@Associação dos Produtores Rurais e Moradores do INCRA 07@AR Gleba 03 - Núcleo Rural Alexandre Gusmão@72701997
+6150@DF@1778@Associação dos Produtores e Moradores Rurais da Fazenda Velha@Rodovia DF-250 0 Km 12@73255990

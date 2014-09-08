@@ -1,0 +1,282 @@
+C V1104  28 DEZ 2011    © COPYRIGHT CORREIOS                 TIPOS DE LOGRADOURO               
+D   645Acampamento                                                             Acamp           
+D   001Acesso                                                                  Ac              
+D   667Acesso Local                                                            Ac Loc          
+D   002Adro                                                                    Ad              
+D   501Aeroporto                                                               Aer             
+D   004Alameda                                                                 Al              
+D   005Alto                                                                    At              
+D   738Anel Viário                                                             An Vr           
+D   741Antiga Estação                                                          Ant Etc         
+D   674Antiga Estrada                                                          Ant Est         
+D   472Área                                                                    A               
+D   654Área Especial                                                           AE              
+D   721Área Verde                                                              A Verde         
+D   465Artéria                                                                 Art             
+D   007Atalho                                                                  Atl             
+D   008Avenida                                                                 Av              
+D   651Avenida Contorno                                                        Av Cont         
+D   677Avenida Marginal                                                        Av Marg         
+D   680Avenida Marginal Direita                                                Av Marg Dir     
+D   679Avenida Marginal Esquerda                                               Av Marg Esq     
+D   730Avenida Marginal Norte                                                  Av Marg Norte   
+D   725Avenida Perimetral                                                      Av Per          
+D   678Avenida Velha                                                           Av Va           
+D   015Baixa                                                                   Bx              
+D   470Balão                                                                   Blo             
+D   009Balneário                                                               Baln            
+D   011Beco                                                                    Bc              
+D   010Belvedere                                                               Belv            
+D   012Bloco                                                                   Bl              
+D   687Blocos                                                                  Bls             
+D   013Bosque                                                                  Bsq             
+D   014Boulevard                                                               Bvd             
+D   689Bulevar                                                                 Blv             
+D   496Buraco                                                                  Bco             
+D   016Cais                                                                    C               
+D   571Calçada                                                                 Calc            
+D   723Calçadão                                                                Calç            
+D   017Caminho                                                                 Cam             
+D   729Caminho de Servidão                                                     Cam Serv        
+D   023Campo                                                                   Cpo             
+D   717Campus                                                                  Campus          
+D   495Canal                                                                   Can             
+D   481Chácara                                                                 Ch              
+D   019Chapadão                                                                Chap            
+D   688Ciclovia                                                                Cicl            
+D   479Circular                                                                Circ            
+D   021Colônia                                                                 Col             
+D   503Complexo Viário                                                         Cmp Vr          
+D   713Comunidade                                                              Com             
+D   485Condomínio                                                              Cond            
+D   722Condomínio Residencial                                                  Cond Res        
+D   020Conjunto                                                                Cj              
+D   736Conjunto Habitacional                                                   Conj Hab        
+D   664Conjunto Mutirão                                                        Cj Mut          
+D   745Conjunto Residencial                                                    Cj Res          
+D   686Contorno                                                                Cont            
+D   022Corredor                                                                Cor             
+D   024Córrego                                                                 Crg             
+D   478Descida                                                                 Dsc             
+D   027Desvio                                                                  Dsv             
+D   028Distrito                                                                Dt              
+D   733Eixo                                                                    Ex              
+D   714Eixo Industrial                                                         Ex Ind          
+D   732Eixo Principal                                                          Ex Princ        
+D   468Elevada                                                                 Evd             
+D   705Enseada                                                                 Ens             
+D   573Entrada Particular                                                      Ent Part        
+D   704Entre Bloco                                                             EB              
+D   652Entre Quadra                                                            EQ              
+D   030Escada                                                                  Esc             
+D   690Escadaria                                                               Escad           
+D   474Esplanada                                                               Esp             
+D   032Estação                                                                 Etc             
+D   564Estacionamento                                                          Estc            
+D   033Estádio                                                                 Etd             
+D   498Estância                                                                Etn             
+D   031Estrada                                                                 Est             
+D   682Estrada Antiga                                                          Est Ant         
+D   731Estrada de Ferro                                                        Est Fer         
+D   675Estrada de Ligação                                                      Est Lig         
+D   712Estrada de Servidão                                                     Est Srv         
+D   676Estrada Estadual                                                        Est Estd        
+D   710Estrada Intermunicipal                                                  Est Interm      
+D   650Estrada Municipal                                                       Est Mun         
+D   735Estrada Nova                                                            Est Nova        
+D   681Estrada Particular                                                      Est Part        
+D   671Estrada Velha                                                           Est Velha       
+D   697Estrada Vicinal                                                         Est Vic         
+D   716Evangélica                                                              Evang           
+D   036Favela                                                                  Fav             
+D   037Fazenda                                                                 Faz             
+D   040Feira                                                                   Fra             
+D   038Ferrovia                                                                Fer             
+D   039Fonte                                                                   Fnt             
+D   043Forte                                                                   Fte             
+D   045Galeria                                                                 Gal             
+D   046Granja                                                                  Gja             
+D   050Ilha                                                                    Ia              
+D   706Ilhota                                                                  Ioa             
+D   052Jardim                                                                  Jd              
+D   737Jardim Residencial                                                      Jd Res          
+D   473Jardinete                                                               Jde             
+D   053Ladeira                                                                 Ld              
+D   499Lago                                                                    Lg              
+D   055Lagoa                                                                   Lga             
+D   054Largo                                                                   Lrg             
+D   056Loteamento                                                              Lot             
+D   720Margem                                                                  Marg            
+D   477Marina                                                                  Mna             
+D   715Mercado                                                                 Merc            
+D   497Módulo                                                                  Mod             
+D   749Módulo Comercial                                                        MC              
+D   060Monte                                                                   Mte             
+D   059Morro                                                                   Mro             
+D   750Nova Avenida                                                            N Av            
+D   500Núcleo                                                                  Nuc             
+D   486Núcleo Habitacional                                                     Nuc Hab         
+D   719Núcleo Rural                                                            Nuc Rural       
+D   734Outeiro                                                                 Out             
+D   067Parada                                                                  Pda             
+D   471Paradouro                                                               Pdo             
+D   062Paralela                                                                Par             
+D   072Parque                                                                  Prq             
+D   663Parque Municipal                                                        Prq Munic       
+D   665Parque Residencial                                                      Prq Res         
+D   074Passagem                                                                Psg             
+D   696Passagem de Pedestres                                                   Psg Ped         
+D   502Passagem Subterrânea                                                    Psg-Sub         
+D   073Passarela                                                               Psa             
+D   063Passeio                                                                 Pas             
+D   702Passeio Público                                                         Pas Pub         
+D   064Pátio                                                                   Pat             
+D   483Ponta                                                                   Pnt             
+D   076Ponte                                                                   Pte             
+D   469Porto                                                                   Pto             
+D   065Praça                                                                   Pç              
+D   504Praça de Esportes                                                       Pç-Esp          
+D   070Praia                                                                   Pr              
+D   691Primeira Ladeira                                                        1ª Ld           
+D   718Projeção                                                                Proj            
+D   071Prolongamento                                                           Prl             
+D   077Quadra                                                                  Q               
+D   694Quarta Ladeira                                                          4ª Ld           
+D   079Quinta                                                                  Qta             
+D   695Quinta Ladeira                                                          5ª Ld           
+D   475Quintas                                                                 Qtas            
+D   082Ramal                                                                   Ram             
+D   482Rampa                                                                   Rmp             
+D   087Recanto                                                                 Rec             
+D   662Recreio                                                                 Rcr             
+D   487Residencial                                                             Res             
+D   089Reta                                                                    Ret             
+D   088Retiro                                                                  Rer             
+D   091Retorno                                                                 Rtn             
+D   569Rodo Anel                                                               Rod-An          
+D   090Rodovia                                                                 Rod             
+D   506Rotatória                                                               Rtt             
+D   476Rótula                                                                  Rot             
+D   081Rua                                                                     R               
+D   653Rua de Ligação                                                          R Lig           
+D   566Rua de Pedestre                                                         R-Ped           
+D   670Rua Integração                                                          R Integ         
+D   669Rua Particular                                                          R Part          
+D   699Rua Principal                                                           R Princ         
+D   698Rua Projetada                                                           R Proj          
+D   672Rua Velha                                                               R Velha         
+D   724Ruela                                                                   Rla             
+D   701Segunda Avenida                                                         Seg Av          
+D   094Servidão                                                                Srv             
+D   739Servidão de Passagem                                                    Srv Psg         
+D   095Setor                                                                   St              
+D   092Sítio                                                                   Sit             
+D   096Subida                                                                  Sub             
+D   700Terceira Avenida                                                        Terc Av         
+D   098Terminal                                                                Ter             
+D   100Travessa                                                                Tv              
+D   570Travessa Particular                                                     Tv-Part         
+D   673Travessa Velha                                                          Tv Velha        
+D   452Trecho                                                                  Tr              
+D   099Trevo                                                                   Trv             
+D   097Trincheira                                                              Tch             
+D   567Túnel                                                                   Tun             
+D   480Unidade                                                                 Unid            
+D   565Vala                                                                    Val             
+D   106Vale                                                                    Vle             
+D   568Variante                                                                Vrte            
+D   747Variante da Estrada                                                     Vrte Est        
+D   453Vereda                                                                  Ver             
+D   101Via                                                                     V               
+D   668Via Coletora                                                            V Colet         
+D   711Via Costeira                                                            V Cost          
+D   572Via de Acesso                                                           V-Ac            
+D   484Via de Pedestre                                                         V-Ped           
+D   707Via de Pedestres                                                        V-Peds          
+D   505Via Elevado                                                             V-Evd           
+D   646Via Expressa                                                            V-Exp           
+D   728Via Lateral                                                             V Lat           
+D   685Via Litoranea                                                           V Lit           
+D   666Via Local                                                               V Local         
+D   748Via Marginal                                                            V. Marg.        
+D   727Via Pedestre                                                            Vped            
+D   726Via Principal                                                           V-Princ         
+D   103Viaduto                                                                 Vd              
+D   105Viela                                                                   Vla             
+D   104Vila                                                                    Vl              
+D   108Zigue-Zague                                                             Zig-Zag         
+D   5231º Alto                                                                 1º At           
+D   6551ª Avenida                                                              1ª Av           
+D   5281º Beco                                                                 1º Bc           
+D   5331ª Paralela                                                             1ª Par          
+D   5491º Parque                                                               1º Prq          
+D   5521ª Rua                                                                  1ª R            
+D   5381ª Subida                                                               1ª Sub          
+D   5071ª Travessa                                                             1ª Tv           
+D   7091ª Travessa da Rodovia                                                  1ª Tv da Rod    
+D   5441ª Vila                                                                 1ª Vl           
+D   56110ª Rua                                                                 10ª R           
+D   51610ª Travessa                                                            10ª Tv          
+D   56211ª Rua                                                                 11ª R           
+D   51711ª Travessa                                                            11ª Tv          
+D   56312ª Rua                                                                 12ª R           
+D   51812ª Travessa                                                            12ª Tv          
+D   51913ª Travessa                                                            13ª Tv          
+D   52014ª Travessa                                                            14ª Tv          
+D   52115ª Travessa                                                            15ª Tv          
+D   52216ª Travessa                                                            16ª Tv          
+D   74017ª Travessa                                                            17ª Tv          
+D   65918ª Travessa                                                            18ª Tv          
+D   66019ª Travessa                                                            19ª Tv          
+D   7462ª Alameda                                                              2ª Al           
+D   5242º Alto                                                                 2º At           
+D   6562ª Avenida                                                              2ª Av           
+D   5292º Beco                                                                 2º Bc           
+D   6922ª Ladeira                                                              2ª Ld           
+D   5342ª Paralela                                                             2ª Par          
+D   5502º Parque                                                               2º Prq          
+D   5532ª Rua                                                                  2ª R            
+D   5392ª Subida                                                               2ª Sub          
+D   5082ª Travessa                                                             2ª Tv           
+D   7082ª Travessa da Rodovia                                                  2ª Tv Rod       
+D   5452ª Vila                                                                 2ª Vl           
+D   74220ª Travessa                                                            20ª Tv          
+D   74321ª Travessa                                                            21ª Tv          
+D   74422ª Travessa                                                            22ª Tv          
+D   5253º Alto                                                                 3º At           
+D   6573ª Avenida                                                              3ª Av           
+D   5303º Beco                                                                 3º Bc           
+D   6933ª Ladeira                                                              3ª Ld           
+D   5353ª Paralela                                                             3ª Par          
+D   5513º Parque                                                               3º Prq          
+D   5543ª Rua                                                                  3ª R            
+D   5403ª Subida                                                               3ª Sub          
+D   5093ª Travessa                                                             3ª Tv           
+D   5463ª Vila                                                                 3ª Vl           
+D   5264º Alto                                                                 4º At           
+D   6584ª Avenida                                                              4ª Av           
+D   5314º Beco                                                                 4º Bc           
+D   5364ª Paralela                                                             4ª Par          
+D   5564ª Rua                                                                  4ª R            
+D   5414ª Subida                                                               4ª Sub          
+D   5104ª Travessa                                                             4ª Tv           
+D   5474ª Vila                                                                 4ª Vl           
+D   5275º Alto                                                                 5º At           
+D   6615ª Avenida                                                              5ª Av           
+D   5325º Beco                                                                 5º Bc           
+D   5375ª Paralela                                                             5ª Par          
+D   5555ª Rua                                                                  5ª R            
+D   5425ª Subida                                                               5ª Sub          
+D   5115ª Travessa                                                             5ª Tv           
+D   5485ª Vila                                                                 5ª Vl           
+D   6836ª Avenida                                                              6ª Av           
+D   5576ª Rua                                                                  6ª R            
+D   5436ª Subida                                                               6ª Sub          
+D   5126ª Travessa                                                             6ª Tv           
+D   5587ª Rua                                                                  7ª R            
+D   5137ª Travessa                                                             7ª Tv           
+D   5598ª Rua                                                                  8ª R            
+D   5148ª Travessa                                                             8ª Tv           
+D   5609ª Rua                                                                  9ª R            
+D   5159ª Travessa                                                             9ª Tv           
+#
