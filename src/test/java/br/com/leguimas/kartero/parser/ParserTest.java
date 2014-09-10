@@ -3,8 +3,10 @@ package br.com.leguimas.kartero.parser;
 import java.util.List;
 
 import static org.junit.Assert.*;
+
 import org.junit.Test;
 
+import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
 import br.com.leguimas.kartero.importer.parser.CorreiosParser;
 
@@ -18,6 +20,35 @@ public class ParserTest {
         parser.parseFiles(basePath);
 
         assertLocalidades(parser);
+        assertBairros(parser);
+    }
+
+    private void assertBairros(CorreiosParser parser) {
+        List<Bairro> bairros = parser.getBairros();
+        assertNotNull(bairros);
+        assertEquals(102, bairros.size());
+
+        // Testa 3 bairros pegos ao acaso devido a quantidade de dados na base de exemplo
+        Bairro bairro = bairros.get(10);
+        assertEquals(1453, bairro.getBaiNu());
+        assertEquals("ES", bairro.getUfeSg());
+        assertEquals(1847, bairro.getLocNu());
+        assertEquals("Centro", bairro.getBaiNo());
+        assertNull(bairro.getBaiNoAbrev());
+
+        bairro = bairros.get(17);
+        assertEquals(48451, bairro.getBaiNu());
+        assertEquals("DF", bairro.getUfeSg());
+        assertEquals(1778, bairro.getLocNu());
+        assertEquals("Setor Sul (Planaltina)", bairro.getBaiNo());
+        assertEquals("St Sul (Planaltina)", bairro.getBaiNoAbrev());
+
+        bairro = bairros.get(100);
+        assertEquals(55467, bairro.getBaiNu());
+        assertEquals("AC", bairro.getUfeSg());
+        assertEquals(16, bairro.getLocNu());
+        assertEquals("Loteamento Joafra", bairro.getBaiNo());
+        assertEquals("Lot Joafra", bairro.getBaiNoAbrev());
     }
 
     private void assertLocalidades(CorreiosParser parser) {
