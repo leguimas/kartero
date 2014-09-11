@@ -8,6 +8,7 @@ import org.junit.Test;
 
 import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
+import br.com.leguimas.kartero.importer.entity.Logradouro;
 import br.com.leguimas.kartero.importer.parser.CorreiosParser;
 
 public class ParserTest {
@@ -21,6 +22,54 @@ public class ParserTest {
 
         assertLocalidades(parser);
         assertBairros(parser);
+        assertLogradouros(parser);
+    }
+
+    private void assertLogradouros(CorreiosParser parser) {
+        List<Logradouro> logradouros = parser.getLogradouros();
+        assertNotNull(logradouros);
+        assertEquals(87, logradouros.size());
+
+        // Testa 3 logradouros pegos ao acaso devido a quantidade de dados na base de exemplo
+
+        Logradouro logradouro = logradouros.get(9);
+        assertEquals(491, (int) logradouro.getLogNu());
+        assertEquals("AC", logradouro.getUfeSg());
+        assertEquals(16, (int) logradouro.getLocNu());
+        assertEquals(55386, (int) logradouro.getBaiNuIni());
+        assertNull(logradouro.getBaiNuFim());
+        assertEquals("Pernambuco", logradouro.getLogNo());
+        assertEquals("- até 484/485", logradouro.getLogComplemento());
+        assertEquals("69900306", logradouro.getCep());
+        assertEquals("Rua", logradouro.getTloTx());
+        assertEquals('S', (char) logradouro.getLogStaTlo());
+        assertEquals("R Pernambuco", logradouro.getLogNoAbrev());
+
+        logradouro = logradouros.get(63);
+        assertEquals(72044, (int) logradouro.getLogNu());
+        assertEquals("DF", logradouro.getUfeSg());
+        assertEquals(1778, (int) logradouro.getLocNu());
+        assertEquals(1193, (int) logradouro.getBaiNuIni());
+        assertNull(logradouro.getBaiNuFim());
+        assertEquals("QE 1 Bloco A", logradouro.getLogNo());
+        assertNull(logradouro.getLogComplemento());
+        assertEquals("71020011", logradouro.getCep());
+        assertEquals("Quadra", logradouro.getTloTx());
+        assertEquals('N', (char) logradouro.getLogStaTlo());
+        assertEquals("Q QE", logradouro.getLogNoAbrev());
+
+        logradouro = logradouros.get(86);
+        assertEquals(846589, (int) logradouro.getLogNu());
+        assertEquals("ES", logradouro.getUfeSg());
+        assertEquals(1847, (int) logradouro.getLocNu());
+        assertEquals(1454, (int) logradouro.getBaiNuIni());
+        assertNull(logradouro.getBaiNuFim());
+        assertEquals("Natalino Francisco da Silva", logradouro.getLogNo());
+        assertNull(logradouro.getLogComplemento());
+        assertEquals("29700559", logradouro.getCep());
+        assertEquals("Rua", logradouro.getTloTx());
+        assertEquals('S', (char) logradouro.getLogStaTlo());
+        assertEquals("R Natalino F da Silva", logradouro.getLogNoAbrev());
     }
 
     private void assertBairros(CorreiosParser parser) {

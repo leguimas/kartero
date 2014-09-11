@@ -8,14 +8,20 @@ import java.util.List;
 
 import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
+import br.com.leguimas.kartero.importer.entity.Logradouro;
 
 public class CorreiosParser {
 
     private static final String LOCALIDADE_FILE = "/LOG_LOCALIDADE.TXT";
     private static final String BAIRRO_FILE = "/LOG_BAIRRO.TXT";
+    private static final String LOGRADOURO_FILE = "/LOG_LOGRADOURO_XX.TXT";
+
+    private static final String[] UNIDADES_FEDERATIVAS = new String[] { "AC", "AL", "AP", "AM", "BA", "CE", "DF", "ES", "GO", "MA", "MT",
+            "MS", "MG", "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC", "SP", "SE", "TO" };
 
     private List<Localidade> localidades;
     private List<Bairro> bairros;
+    private List<Logradouro> logradouros;
 
     public List<Localidade> getLocalidades() {
         return localidades;
@@ -25,9 +31,35 @@ public class CorreiosParser {
         return bairros;
     }
 
+    public List<Logradouro> getLogradouros() {
+        return logradouros;
+    }
+
     public void parseFiles(String basePath) {
         localidades = parseLocalidades(basePath);
         bairros = parseBairros(basePath);
+        logradouros = parseLogradouros(basePath);
+    }
+
+    private List<Logradouro> parseLogradouros(String basePath) {
+        List<Logradouro> ret = new ArrayList<Logradouro>();
+        List<String[]> file;
+
+        LineConsummer consummer = new LineConsummer();
+        
+        for (String uf : UNIDADES_FEDERATIVAS) {
+            file = readFile(basePath + LOGRADOURO_FILE.replace("XX", uf));
+            
+            for (String[] line : file) {
+                consummer.setLine(line);
+                
+                Logradouro logradouro = new Logradouro();
+                logradouro.consumeLine(consummer);
+                ret.add(logradouro);
+            }
+        }
+
+        return ret;
     }
 
     private List<Bairro> parseBairros(String basePath) {
