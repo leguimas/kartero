@@ -1,17 +1,28 @@
 package br.com.leguimas.kartero.parser;
 
+import java.io.IOException;
+import java.sql.SQLException;
 import java.util.List;
 
 import static org.junit.Assert.*;
 
+import org.junit.BeforeClass;
 import org.junit.Test;
 
+import br.com.leguimas.kartero.TesteIntegrado;
+import br.com.leguimas.kartero.cep.CEP;
+import br.com.leguimas.kartero.cep.CEPRepository;
 import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
 import br.com.leguimas.kartero.importer.entity.Logradouro;
 import br.com.leguimas.kartero.importer.parser.CorreiosParser;
 
-public class ParserTest {
+public class ParserTest extends TesteIntegrado {
+
+    @BeforeClass
+    public static void carregaDadosDeTeste() throws IOException, SQLException {
+        TesteIntegrado.executaScript("base.dados");
+    }
 
     @Test
     public void testParser() {
@@ -23,6 +34,21 @@ public class ParserTest {
         assertLocalidades(parser);
         assertBairros(parser);
         assertLogradouros(parser);
+
+        parser.saveToBase();
+
+        assertResultFromImport();
+    }
+
+    private void assertResultFromImport() {
+        CEPRepository repositorioDeCeps = new CEPRepository();
+        CEP cepEncontrado = repositorioDeCeps.consultaCEP("69900058");
+
+        assertEquals("69900058", cepEncontrado.obtemCEP());
+        assertEquals("Rua Arlindo Porto Leal", cepEncontrado.obtemLogradouro());
+        assertEquals("Centro", cepEncontrado.obtemBairro());
+        assertEquals("Rio Branco", cepEncontrado.obtemCidade());
+        assertEquals("AC", cepEncontrado.obtemUf());
     }
 
     private void assertLogradouros(CorreiosParser parser) {
@@ -30,7 +56,8 @@ public class ParserTest {
         assertNotNull(logradouros);
         assertEquals(87, logradouros.size());
 
-        // Testa 3 logradouros pegos ao acaso devido a quantidade de dados na base de exemplo
+        // Testa 3 logradouros pegos ao acaso devido a quantidade de dados na
+        // base de exemplo
 
         Logradouro logradouro = logradouros.get(9);
         assertEquals(491, (int) logradouro.getLogNu());
@@ -77,7 +104,8 @@ public class ParserTest {
         assertNotNull(bairros);
         assertEquals(102, bairros.size());
 
-        // Testa 3 bairros pegos ao acaso devido a quantidade de dados na base de exemplo
+        // Testa 3 bairros pegos ao acaso devido a quantidade de dados na base
+        // de exemplo
         Bairro bairro = bairros.get(10);
         assertEquals(1453, bairro.getBaiNu());
         assertEquals("ES", bairro.getUfeSg());

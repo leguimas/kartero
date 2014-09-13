@@ -3,9 +3,13 @@ package br.com.leguimas.kartero.importer.parser;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import br.com.leguimas.kartero.database.PoolDeConexoes;
 import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
 import br.com.leguimas.kartero.importer.entity.Logradouro;
@@ -46,13 +50,13 @@ public class CorreiosParser {
         List<String[]> file;
 
         LineConsummer consummer = new LineConsummer();
-        
+
         for (String uf : UNIDADES_FEDERATIVAS) {
             file = readFile(basePath + LOGRADOURO_FILE.replace("XX", uf));
-            
+
             for (String[] line : file) {
                 consummer.setLine(line);
-                
+
                 Logradouro logradouro = new Logradouro();
                 logradouro.consumeLine(consummer);
                 ret.add(logradouro);
@@ -121,5 +125,86 @@ public class CorreiosParser {
         }
 
         return ret;
+    }
+
+    public void saveToBase() {
+        Connection connection = PoolDeConexoes.obtemConexao();
+
+        try {
+            saveLocalidades(connection);
+            saveBairros(connection);
+            saveLogradouros(connection);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        } finally {
+            closeConnection(connection);
+        }
+    }
+
+    /*
+     * log_logradouro (
+     *  loc_nu_sequencial INTEGER,
+     *  log_no VARCHAR(70),
+     *  bai_nu_sequencial_ini INTEGER,
+     *  cep VARCHAR(16),
+     *  log_tipo_logradouro VARCHAR(72));
+     */
+    private static final String SQL_LOGRADOUROS = 
+            "INSERT INTO log_logradouro (loc_nu_sequencial, log_no, bai_nu_sequencial_ini, cep, log_tipo_logradouro) VALUES (?, ?, ?, ?, ?)";
+    private void saveLogradouros(Connection connection) throws SQLException {
+        PreparedStatement prepareStatement;
+        for (Logradouro logradouro : logradouros) {
+            prepareStatement = connection.prepareStatement(SQL_LOGRADOUROS);
+            prepareStatement.setInt(1, logradouro.getLocNu());
+            prepareStatement.setString(2, logradouro.getLogNo());
+            prepareStatement.setInt(3, logradouro.getBaiNuIni());
+            prepareStatement.setString(4, logradouro.getCep());
+            prepareStatement.setString(5, logradouro.getTloTx());
+            prepareStatement.execute();
+            prepareStatement.close();
+        }
+    }
+
+    /*
+     * log_bairro ( bai_nu_sequencial INTEGER, bai_no VARCHAR(72) NOT NULL );
+     */
+    private static final String SQL_BAIRROS = "INSERT INTO log_bairro (bai_nu_sequencial, bai_no) VALUES (?, ?)";
+    private void saveBairros(Connection connection) throws SQLException {
+        PreparedStatement prepareStatement;
+        for (Bairro bairro : bairros) {
+            prepareStatement = connection.prepareStatement(SQL_BAIRROS);
+            prepareStatement.setInt(1, bairro.getBaiNu());
+            prepareStatement.setString(2, bairro.getBaiNo());
+            prepareStatement.execute();
+            prepareStatement.close();
+        }
+    }
+
+    /*
+     * log_localidade ( loc_nu_sequencial INTEGER, loc_no VARCHAR(60), ufe_sg
+     * VARCHAR(2) );
+     */
+    private static final String SQL_LOCALIDADES = "INSERT INTO log_localidade (loc_nu_sequencial, loc_no, ufe_sg) VALUES (?, ?, ?)";
+
+    private void saveLocalidades(Connection conection) throws SQLException {
+        PreparedStatement prepareStatement;
+        for (Localidade localidade : localidades) {
+            prepareStatement = conection.prepareStatement(SQL_LOCALIDADES);
+            prepareStatement.setInt(1, localidade.getLocNu());
+            prepareStatement.setString(2, localidade.getLocNo());
+            prepareStatement.setString(3, localidade.getUfeSg());
+            prepareStatement.execute();
+            prepareStatement.close();
+        }
+    }
+
+    private void closeConnection(Connection conexao) {
+        if (conexao != null) {
+            try {
+                conexao.close();
+            } catch (SQLException e) {
+                throw new RuntimeException(e);
+            }
+        }
     }
 }

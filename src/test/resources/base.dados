@@ -1,0 +1,15 @@
+CREATE TABLE log_logradouro (
+   loc_nu_sequencial INTEGER,
+   log_no VARCHAR(70),
+   bai_nu_sequencial_ini INTEGER,
+   cep VARCHAR(16),
+   log_tipo_logradouro VARCHAR(72));
+--
+CREATE TABLE log_localidade (
+  loc_nu_sequencial INTEGER,
+  loc_no VARCHAR(60),
+  ufe_sg VARCHAR(2));
+--
+CREATE TABLE log_bairro (
+  bai_nu_sequencial INTEGER,
+  bai_no VARCHAR(72) NOT NULL);
