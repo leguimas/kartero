@@ -1,7 +1,6 @@
 package br.com.leguimas.kartero.cep;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNull;
+import static org.junit.Assert.*;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -23,6 +22,7 @@ public class CEPRepositoryTest extends TesteIntegrado {
 		CEPRepository repositorioDeCeps = new CEPRepository();
 		CEP cepEncontrado = repositorioDeCeps.consultaCEP("13045135");
 
+		assertNotNull(cepEncontrado);
 		assertEquals("13045135", cepEncontrado.obtemCEP());
 		assertEquals("Rua Sargento Luis de Morais", cepEncontrado.obtemLogradouro());
 		assertEquals("Jardim São Vicente", cepEncontrado.obtemBairro());

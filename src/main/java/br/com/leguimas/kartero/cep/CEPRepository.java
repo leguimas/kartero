@@ -31,10 +31,21 @@ public class CEPRepository {
 		sql.append("WHERE  log_logradouro.loc_nu_sequencial = log_localidade.loc_nu_sequencial");
 		sql.append("  AND  log_logradouro.bai_nu_sequencial_ini = log_bairro.bai_nu_sequencial");
 		sql.append("  AND  log_logradouro.cep = ?");
+		sql.append("  AND  log_localidade.cep IS NULL ");
+		sql.append(" UNION ALL ");
+		sql.append("SELECT '' as tipo_logradouro,");
+		sql.append("       '' as logradouro,");
+		sql.append("       '' as bairro,");
+		sql.append("       log_localidade.loc_no as cidade,");
+		sql.append("       log_localidade.ufe_sg as uf,");
+		sql.append("       log_localidade.cep as cep ");
+		sql.append("FROM   log_localidade ");
+		sql.append("WHERE  log_localidade.cep = ? ");
 
 		try {
 			query = conexao.prepareStatement(sql.toString());
 			query.setString(1, cepEncontrado.obtemCEP());
+			query.setString(2, cepEncontrado.obtemCEP());
 
 			cepsEncontrados = query.executeQuery();
 			while (cepsEncontrados.next()) {
@@ -47,6 +58,7 @@ public class CEPRepository {
 			}
 
 		} catch (SQLException e) {
+			e.printStackTrace();
 			throw new KarteroException(e, "Problemas ao realizar consulta do CEP: " + e.getMessage());
 		} finally {
 			this.liberaRecursosDeAcessoAoBanco(conexao, query, cepsEncontrados);

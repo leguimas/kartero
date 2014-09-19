@@ -8,7 +8,8 @@ CREATE TABLE log_logradouro (
 CREATE TABLE log_localidade (
   loc_nu_sequencial INTEGER,
   loc_no VARCHAR(60),
-  ufe_sg VARCHAR(2));
+  ufe_sg VARCHAR(2),
+  cep VARCHAR(16));
 --
 CREATE TABLE log_bairro (
   bai_nu_sequencial INTEGER,

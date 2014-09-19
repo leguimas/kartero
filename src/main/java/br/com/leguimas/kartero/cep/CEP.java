@@ -24,9 +24,12 @@ public class CEP {
 	}
 
 	public void comLogradouro(String tipoLogradouro, String logradouro) {
-		StringBuilder logradouroCompleto = new StringBuilder(tipoLogradouro);
-		logradouroCompleto.append(" ").append(logradouro);
-		this.logradouro = logradouroCompleto.toString();
+		// Localidades com CEPs unicos nao possuem logadouros, nao sendo necessario o tratamento abaixo
+		if (tipoLogradouro != null && !"".equals(tipoLogradouro)) {
+			StringBuilder logradouroCompleto = new StringBuilder(tipoLogradouro);
+			logradouroCompleto.append(" ").append(logradouro);
+			this.logradouro = logradouroCompleto.toString();
+		}
 	}
 
 	public String obtemLogradouro() {
