@@ -4,17 +4,20 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
-import br.com.leguimas.kartero.database.PoolDeConexoes;
+import br.com.leguimas.kartero.KarteroException;
 import br.com.leguimas.kartero.importer.entity.Bairro;
 import br.com.leguimas.kartero.importer.entity.Localidade;
 import br.com.leguimas.kartero.importer.entity.Logradouro;
 
 public class CorreiosParser {
+	private static final String ARQUIVO_DE_CONFIGURACOES = "kartero.database";
 
 	private static final String LOCALIDADE_FILE = "/LOG_LOCALIDADE.TXT";
 	private static final String BAIRRO_FILE = "/LOG_BAIRRO.TXT";
@@ -130,7 +133,7 @@ public class CorreiosParser {
 	}
 
 	public void saveToBase() {
-		Connection connection = PoolDeConexoes.obtemConexao();
+		Connection connection = getConnection();
 
 		try {
 			saveLocalidades(connection);
@@ -140,6 +143,26 @@ public class CorreiosParser {
 			throw new RuntimeException(e);
 		} finally {
 			closeConnection(connection);
+		}
+	}
+
+	private Connection getConnection() {
+		Properties arquivoDeConfiguracoes = new Properties();
+		try {
+			arquivoDeConfiguracoes.load(Thread.currentThread().getContextClassLoader()
+					.getResourceAsStream(ARQUIVO_DE_CONFIGURACOES));
+
+			Class.forName(arquivoDeConfiguracoes.getProperty("kartero.classeJDBC"));
+
+			String url = arquivoDeConfiguracoes.getProperty("kartero.urlJDBC");
+			String user = arquivoDeConfiguracoes.getProperty("kartero.usuario");
+			String pass = arquivoDeConfiguracoes.getProperty("kartero.senha");
+			Connection conn = DriverManager.getConnection(url, user, pass);
+			return conn;
+		} catch (IOException | ClassNotFoundException | SQLException e) {
+			e.printStackTrace();
+			throw new KarteroException(e, "Nao foi possivel encontrar o arquivo de configuracoes ("
+					+ ARQUIVO_DE_CONFIGURACOES + "). Verifique se o mesmo encontra-se no classpath da aplicacao. ");
 		}
 	}
 
