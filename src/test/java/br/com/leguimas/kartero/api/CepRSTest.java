@@ -35,7 +35,7 @@ public class CepRSTest extends TesteIntegrado {
 		assertTrue(conteudoDaResposta.endsWith("}"));
 		assertTrue(conteudoDaResposta.contains("\"cep\":\"13045135\""));
 		assertTrue(conteudoDaResposta.contains("\"logradouro\":\"Rua Sargento Luis de Morais\""));
-		assertTrue(conteudoDaResposta.contains("\"bairro\":\"Jardim São Vicente\""));
+		assertTrue(conteudoDaResposta.contains("\"bairro\":\"Jardim Sao Vicente\""));
 		assertTrue(conteudoDaResposta.contains("\"cidade\":\"Campinas\""));
 		assertTrue(conteudoDaResposta.contains("\"uf\":\"SP\""));
 	}

@@ -25,7 +25,7 @@ public class CEPRepositoryTest extends TesteIntegrado {
 		assertNotNull(cepEncontrado);
 		assertEquals("13045135", cepEncontrado.obtemCEP());
 		assertEquals("Rua Sargento Luis de Morais", cepEncontrado.obtemLogradouro());
-		assertEquals("Jardim São Vicente", cepEncontrado.obtemBairro());
+		assertEquals("Jardim Sao Vicente", cepEncontrado.obtemBairro());
 		assertEquals("Campinas", cepEncontrado.obtemCidade());
 		assertEquals("SP", cepEncontrado.obtemUf());
 	}

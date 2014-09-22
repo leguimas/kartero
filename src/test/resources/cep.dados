@@ -15,7 +15,7 @@ CREATE TABLE log_bairro (
   bai_nu_sequencial INTEGER,
   bai_no VARCHAR(72) NOT NULL);
 --
-insert into log_bairro values (1, 'Jardim São Vicente');
+insert into log_bairro values (1, 'Jardim Sao Vicente');
 --
 insert into log_localidade values (10, 'Campinas', 'SP', NULL);
 --

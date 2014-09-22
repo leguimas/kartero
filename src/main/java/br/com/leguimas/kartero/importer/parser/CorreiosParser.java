@@ -55,6 +55,7 @@ public class CorreiosParser {
 		for (String uf : UNIDADES_FEDERATIVAS) {
 			file = readFile(basePath + LOGRADOURO_FILE.replace("XX", uf));
 
+			System.out.println("Reading logradouros from: " + uf);
 			for (String[] line : file) {
 				consummer.setLine(line);
 
@@ -150,7 +151,9 @@ public class CorreiosParser {
 
 	private void saveLogradouros(Connection connection) throws SQLException {
 		PreparedStatement prepareStatement;
+		int i = 0;
 		for (Logradouro logradouro : logradouros) {
+			System.out.println("Saving logradouro " + i++ + " from " + logradouros.size());
 			prepareStatement = connection.prepareStatement(SQL_LOGRADOUROS);
 			prepareStatement.setInt(1, logradouro.getLocNu());
 			prepareStatement.setString(2, logradouro.getLogNo());
@@ -169,7 +172,9 @@ public class CorreiosParser {
 
 	private void saveBairros(Connection connection) throws SQLException {
 		PreparedStatement prepareStatement;
+		int i = 0;
 		for (Bairro bairro : bairros) {
+			System.out.println("Saving bairro " + i++ + " from " + bairros.size());
 			prepareStatement = connection.prepareStatement(SQL_BAIRROS);
 			prepareStatement.setInt(1, bairro.getBaiNu());
 			prepareStatement.setString(2, bairro.getBaiNo());
@@ -185,7 +190,9 @@ public class CorreiosParser {
 
 	private void saveLocalidades(Connection conection) throws SQLException {
 		PreparedStatement prepareStatement;
+		int i = 0;
 		for (Localidade localidade : localidades) {
+			System.out.println("Saving localidade " + i++ + " from " + localidades.size());
 			prepareStatement = conection.prepareStatement(SQL_LOCALIDADES);
 			prepareStatement.setInt(1, localidade.getLocNu());
 			prepareStatement.setString(2, localidade.getLocNo());
