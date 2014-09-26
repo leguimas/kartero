@@ -26,7 +26,7 @@ public class ParserTest extends TesteIntegrado {
 
 	@Test
 	public void testParser() {
-		String basePath = "./src/test/resources/baseExemplo/base_eDNE/Basico/Delimitado";
+		String basePath = "./src/test/resources/baseExemplo/Base_eDNE/Basico/Delimitado";
 
 		CorreiosParser parser = new CorreiosParser();
 		parser.parseFiles(basePath);
