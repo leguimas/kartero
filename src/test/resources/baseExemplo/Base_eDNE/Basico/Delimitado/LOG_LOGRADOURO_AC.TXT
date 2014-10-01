@@ -7,7 +7,7 @@
 130@AC@16@17@@dos Catraeiros@@69900054@Praa@S@P dos Catraeiros
 264@AC@16@17@@Doutor Franco Ribeiro@@69900082@Rua@S@R Dr Franco Ribeiro
 370@AC@16@1@@Leblon@@69918040@Travessa@S@Tv Leblon
-491@AC@16@55386@@Pernambuco@- até 484/485@69900306@Rua@S@R Pernambuco
+491@AC@16@55386@@Pernambuco@- ate 484/485@69900306@Rua@S@R Pernambuco
 553@AC@16@1@@Rubens Carneiro@@69918044@Rua@S@R Rubens Carneiro
 814@AC@16@17@@Quintino Bocaiva@@69900070@Rua@S@R Quintino Bocaiva
 660@AC@16@55469@@Tulipas@@69919628@Rua@S@R Tulipas

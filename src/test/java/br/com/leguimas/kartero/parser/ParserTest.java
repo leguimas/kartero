@@ -49,7 +49,7 @@ public class ParserTest extends TesteIntegrado {
 		assertEquals("69945000", cepEncontrado.obtemCEP());
 		assertEquals("", cepEncontrado.obtemLogradouro());
 		assertEquals("", cepEncontrado.obtemBairro());
-		assertEquals("Acrel\u00E2ndia", cepEncontrado.obtemCidade());
+		assertEquals("Acrelandia", cepEncontrado.obtemCidade());
 		assertEquals("AC", cepEncontrado.obtemUf());
 	}
 
@@ -79,7 +79,7 @@ public class ParserTest extends TesteIntegrado {
 		assertEquals(55386, (int) logradouro.getBaiNuIni());
 		assertNull(logradouro.getBaiNuFim());
 		assertEquals("Pernambuco", logradouro.getLogNo());
-		assertEquals("- at\u00E9 484/485", logradouro.getLogComplemento());
+		assertEquals("- ate 484/485", logradouro.getLogComplemento());
 		assertEquals("69900306", logradouro.getCep());
 		assertEquals("Rua", logradouro.getTloTx());
 		assertEquals('S', (char) logradouro.getLogStaTlo());
@@ -149,12 +149,12 @@ public class ParserTest extends TesteIntegrado {
 		Localidade loc = localidades.get(0);
 		assertEquals(1, (int) loc.getLocNu());
 		assertEquals("AC", loc.getUfeSg());
-		assertEquals("Acrel\u00E2ndia", loc.getLocNo());
+		assertEquals("Acrelandia", loc.getLocNo());
 		assertEquals("69945000", loc.getCep());
 		assertEquals('0', (char) loc.getLocInSit());
 		assertEquals('M', (char) loc.getLocInTipoLoc());
 		assertNull(loc.getLocNuSub());
-		assertEquals("Acrel\u00E2ndia", loc.getLocNoAbrev());
+		assertEquals("Acrelandia", loc.getLocNoAbrev());
 		assertEquals("1200013", loc.getMunNu());
 
 		loc = localidades.get(1);
@@ -182,23 +182,23 @@ public class ParserTest extends TesteIntegrado {
 		loc = localidades.get(3);
 		assertEquals(1778, (int) loc.getLocNu());
 		assertEquals("DF", loc.getUfeSg());
-		assertEquals("Bras\u00EDlia", loc.getLocNo());
+		assertEquals("Brasilia", loc.getLocNo());
 		assertNull(loc.getCep());
 		assertEquals('1', (char) loc.getLocInSit());
 		assertEquals('M', (char) loc.getLocInTipoLoc());
 		assertNull(loc.getLocNuSub());
-		assertEquals("Bras\u00EDlia", loc.getLocNoAbrev());
+		assertEquals("Brasilia", loc.getLocNoAbrev());
 		assertEquals("5300108", loc.getMunNu());
 
 		loc = localidades.get(4);
 		assertEquals(1811, (int) loc.getLocNu());
 		assertEquals("ES", loc.getUfeSg());
-		assertEquals("\u00C2ngelo Frechiani", loc.getLocNo());
+		assertEquals("Angelo Frechiani", loc.getLocNo());
 		assertNull(loc.getCep());
 		assertEquals('2', (char) loc.getLocInSit());
 		assertEquals('D', (char) loc.getLocInTipoLoc());
 		assertEquals(1847, (int) loc.getLocNuSub());
-		assertEquals("\u00C2ngelo Frechiani", loc.getLocNoAbrev());
+		assertEquals("Angelo Frechiani", loc.getLocNoAbrev());
 		assertNull(loc.getMunNu());
 
 		loc = localidades.get(5);
