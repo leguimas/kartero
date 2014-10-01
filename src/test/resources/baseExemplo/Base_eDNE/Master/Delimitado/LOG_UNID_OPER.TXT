@@ -1,9 +1,9 @@
-321@DF@1778@1129@64269@AC Banco Central@SBS Quadra 3 Bloco A 2º Subsolo@70070972@N@
-329@DF@1778@1129@64267@AC Galeria dos Estados@SBS Quadra 1 Bloco A Lote 31 Térreo s/n@70070974@N@AC Galeria Estados
-344@DF@1778@1129@64139@AC Setor de Autarquias Sul@Praça dos Tribunais Superiores Bloco D@70070971@N@AC Setor A Sul
+321@DF@1778@1129@64269@AC Banco Central@SBS Quadra 3 Bloco A 2 Subsolo@70070972@N@
+329@DF@1778@1129@64267@AC Galeria dos Estados@SBS Quadra 1 Bloco A Lote 31 Trreo s/n@70070974@N@AC Galeria Estados
+344@DF@1778@1129@64139@AC Setor de Autarquias Sul@Praa dos Tribunais Superiores Bloco D@70070971@N@AC Setor A Sul
 348@DF@1778@1129@64483@ACF Centro Sul@SCS Quadra 6 Bloco A Loja 246@70306970@S@
-366@DF@1778@1129@64483@Serv Carta, Cartão e Envelope Encomenda-Resposta - ACF Centro Sul@SCS Quadra 6 Bloco A Loja 246@70306999@N@Serv Carta, C E E Encomenda-Resposta
+366@DF@1778@1129@64483@Serv Carta, Carto e Envelope Encomenda-Resposta - ACF Centro Sul@SCS Quadra 6 Bloco A Loja 246@70306999@N@Serv Carta, C E E Encomenda-Resposta
 6677@DF@1778@1129@64484@ACC I Patio Brasil@SCS Quadra 7 Bloco A Piso G1@70307970@N@
-12040@AC@1@39331@@AC Acrelândia@Avenida Paraná, s/n@69945970@N@
+12040@AC@1@39331@@AC Acrelndia@Avenida Paran, s/n@69945970@N@
 12047@AC@15@39338@@AC Porto Walter@Rua Projetada, s/n@69982970@N@
-25740@AC@16@17@814@AC Oca@Rua Quintino Bocaiúva 299@69900974@N@
+25740@AC@16@17@814@AC Oca@Rua Quintino Bocaiva 299@69900974@N@

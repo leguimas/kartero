@@ -1,102 +1,102 @@
-1@AC@16@Abrahão Alab@A Alab
+1@AC@16@Abraho Alab@A Alab
 17@AC@16@Centro@
 1129@DF@1778@Asa Sul@A Sul
-1193@DF@1778@Guará I@
+1193@DF@1778@Guar I@
 1206@DF@1778@Sobradinho@
-1250@DF@1778@Setor Residencial Oeste (São Sebastião)@St Res Oeste (S Sebastião)
-1251@DF@1778@Setor Tradicional (São Sebastião)@St Tradicional (S Sebastião)
-1252@DF@1778@Vila Nova (São Sebastião)@Vl Nova (S Sebastião)
-1253@DF@1778@Vila São José (São Sebastião)@Vl S José (S Sebastião)
-1446@ES@1847@Luiz Iglésias@L Iglésias
+1250@DF@1778@Setor Residencial Oeste (So Sebastio)@St Res Oeste (S Sebastio)
+1251@DF@1778@Setor Tradicional (So Sebastio)@St Tradicional (S Sebastio)
+1252@DF@1778@Vila Nova (So Sebastio)@Vl Nova (S Sebastio)
+1253@DF@1778@Vila So Jos (So Sebastio)@Vl S Jos (S Sebastio)
+1446@ES@1847@Luiz Iglsias@L Iglsias
 1453@ES@1847@Centro@
 1454@ES@1847@Colatina Velha@C Velha
 1455@ES@1847@Columbia@
 1456@ES@1847@Carlos Germano Naumann@C G Naumann
 1457@ES@1847@Esplanada@
-44983@DF@1778@Bonsucesso (São Sebastião)@Bonsucesso (S Sebastião)
-46507@DF@1778@Núcleo Rural Lago Oeste (Sobradinho)@Nuc R Lg Oeste (Sobradinho)
+44983@DF@1778@Bonsucesso (So Sebastio)@Bonsucesso (S Sebastio)
+46507@DF@1778@Ncleo Rural Lago Oeste (Sobradinho)@Nuc R Lg Oeste (Sobradinho)
 48451@DF@1778@Setor Sul (Planaltina)@St Sul (Planaltina)
-48492@DF@1778@Itapoã I@
+48492@DF@1778@Itapo I@
 48649@ES@1847@Aeroporto@
-48650@ES@1847@Mário Giurizatto@M Giurizatto
+48650@ES@1847@Mrio Giurizatto@M Giurizatto
 48651@ES@1847@Industrial Alves Marques@Ind A Marques
-48921@DF@1778@Setor de Mansões do Lago Norte@St M Lg Norte
-48985@DF@1778@Estâncias Vila Rica (Sobradinho)@E Vl Rica (Sobradinho)
+48921@DF@1778@Setor de Manses do Lago Norte@St M Lg Norte
+48985@DF@1778@Estncias Vila Rica (Sobradinho)@E Vl Rica (Sobradinho)
 49142@DF@1778@Setor Habitacional Arniqueiras (Taguatinga)@St H Arniqueiras (Taguatinga)
-49237@DF@1778@Campus Universitário Darcy Ribeiro@C Univ D Ribeiro
-49238@DF@1778@Área Universitária (Planaltina)@A Universitária (Planaltina)
-49466@DF@1778@Setor de Materiais de Construção (Ceilândia)@St M Construção (Ceilândia)
-49660@DF@1778@Área Alfa (Santa Maria)@A Alfa (Sta Maria)
-49678@DF@1778@Brazlândia@
+49237@DF@1778@Campus Universitrio Darcy Ribeiro@C Univ D Ribeiro
+49238@DF@1778@rea Universitria (Planaltina)@A Universitria (Planaltina)
+49466@DF@1778@Setor de Materiais de Construo (Ceilndia)@St M Construo (Ceilndia)
+49660@DF@1778@rea Alfa (Santa Maria)@A Alfa (Sta Maria)
+49678@DF@1778@Brazlndia@
 49791@ES@1847@Castelo Branco@C Branco
 49792@ES@1847@Barbados@
 49922@AC@16@Paz@
 50003@ES@1847@Alto Vila Nova@At Vl Nova
-50004@ES@1847@Do Ipê@D Ipê
+50004@ES@1847@Do Ip@D Ip
 50091@DF@1778@Serra Azul (Sobradinho)@S Azul (Sobradinho)
-50093@DF@1778@Condomínio Mansões Sobradinho (Sobradinho)@Cond M Sobradinho (Sobradinho)
-50094@DF@1778@Condomínio Comercial e Residencial Sobradinho (Sobradinho)@Cond C Res Sobradinho (Sobradinho)
-50095@DF@1778@Vale das Acácias (Sobradinho)@Vle Acácias (Sobradinho)
-50096@DF@1778@Condomínio Mirante da Serra (Sobradinho)@Cond M Serra (Sobradinho)
+50093@DF@1778@Condomnio Manses Sobradinho (Sobradinho)@Cond M Sobradinho (Sobradinho)
+50094@DF@1778@Condomnio Comercial e Residencial Sobradinho (Sobradinho)@Cond C Res Sobradinho (Sobradinho)
+50095@DF@1778@Vale das Accias (Sobradinho)@Vle Accias (Sobradinho)
+50096@DF@1778@Condomnio Mirante da Serra (Sobradinho)@Cond M Serra (Sobradinho)
 50098@DF@1778@Vila Rabelo I (Sobradinho)@Vl Rabelo I (Sobradinho)
 50099@DF@1778@Vila Rabelo II (Sobradinho)@Vl Rabelo II (Sobradinho)
-50100@DF@1778@Condomínio Vale dos Pinheiros (Sobradinho)@Cond Vle Pinheiros (Sobradinho)
+50100@DF@1778@Condomnio Vale dos Pinheiros (Sobradinho)@Cond Vle Pinheiros (Sobradinho)
 50460@AC@16@Loteamento Santo Afonso@Lot Sto Afonso
 50520@DF@1778@Setor Habitacional Vereda Grande (Taguatinga)@St H Ver Grande (Taguatinga)
-50629@DF@1778@Quinta dos Ipês (São Sebastião)@Qta Ipês (S Sebastião)
+50629@DF@1778@Quinta dos Ips (So Sebastio)@Qta Ips (S Sebastio)
 51305@DF@1778@Planaltina@
-51309@DF@1778@Setor Central (Vila Estrutural - Guará)@St Central (Vl Estrutural - Guará)
-51310@DF@1778@Setor Oeste (Vila Estrutural - Guará)@St Oeste (Vl Estrutural - Guará)
-51311@DF@1778@Setor Norte (Vila Estrutural - Guará)@St Norte (Vl Estrutural - Guará)
-51312@DF@1778@Setor Leste (Vila Estrutural - Guará)@St Leste (Vl Estrutural - Guará)
-51313@DF@1778@Setor Especial (Vila Estrutural - Guará)@St Especial (Vl Estrutural - Guará)
-51833@DF@1778@Varjão@
+51309@DF@1778@Setor Central (Vila Estrutural - Guar)@St Central (Vl Estrutural - Guar)
+51310@DF@1778@Setor Oeste (Vila Estrutural - Guar)@St Oeste (Vl Estrutural - Guar)
+51311@DF@1778@Setor Norte (Vila Estrutural - Guar)@St Norte (Vl Estrutural - Guar)
+51312@DF@1778@Setor Leste (Vila Estrutural - Guar)@St Leste (Vl Estrutural - Guar)
+51313@DF@1778@Setor Especial (Vila Estrutural - Guar)@St Especial (Vl Estrutural - Guar)
+51833@DF@1778@Varjo@
 51880@AC@16@Alto Alegre@At Alegre
-51982@DF@1778@Setor Habitacional Pôr do Sol (Ceilândia)@St H P Sol (Ceilândia)
-51983@DF@1778@Setor Habitacional Sol Nascente (Ceilândia)@St H S Nascente (Ceilândia)
-51986@DF@1778@Condomínio Privê Lucena Roriz (Ceilândia)@Cond P L Roriz (Ceilândia)
-51996@DF@1778@Núcleo Rural Vargem Bonita (Núcleo Bandeirante)@Nuc R V Bonita (Nuc Bandeirante)
+51982@DF@1778@Setor Habitacional Pr do Sol (Ceilndia)@St H P Sol (Ceilndia)
+51983@DF@1778@Setor Habitacional Sol Nascente (Ceilndia)@St H S Nascente (Ceilndia)
+51986@DF@1778@Condomnio Priv Lucena Roriz (Ceilndia)@Cond P L Roriz (Ceilndia)
+51996@DF@1778@Ncleo Rural Vargem Bonita (Ncleo Bandeirante)@Nuc R V Bonita (Nuc Bandeirante)
 52000@DF@1778@Setor Habitacional Samambaia (Taguatinga)@St H Samambaia (Taguatinga)
-52001@DF@1778@Vila São José (Taguatinga)@Vl S José (Taguatinga)
+52001@DF@1778@Vila So Jos (Taguatinga)@Vl S Jos (Taguatinga)
 52002@DF@1778@Setor Habitacional Vicente Pires (Taguatinga)@St H V Pires (Taguatinga)
-52161@DF@1778@Setor de Chácaras Córrego da Onça (Núcleo Bandeirante)@St C Crg Onça (Nuc Bandeirante)
-52185@DF@1778@Setor Habitacional Jardim Botânico (Lago Sul)@St H Jd Botânico (Lg Sul)
-52425@DF@1778@Nossa Senhora de Fátima (Planaltina)@N Sra Fátima (Planaltina)
-52426@DF@1778@Condomínio Guirra (Planaltina)@Cond Guirra (Planaltina)
-52427@DF@1778@Itapoã II@
-52428@DF@1778@Del Lago I (Paranoá)@D Lago I (Paranoá)
-52429@DF@1778@Del Lago II (Paranoá)@D Lago II (Paranoá)
-52430@DF@1778@Fazendinha (Paranoá)@
+52161@DF@1778@Setor de Chcaras Crrego da Ona (Ncleo Bandeirante)@St C Crg Ona (Nuc Bandeirante)
+52185@DF@1778@Setor Habitacional Jardim Botnico (Lago Sul)@St H Jd Botnico (Lg Sul)
+52425@DF@1778@Nossa Senhora de Ftima (Planaltina)@N Sra Ftima (Planaltina)
+52426@DF@1778@Condomnio Guirra (Planaltina)@Cond Guirra (Planaltina)
+52427@DF@1778@Itapo II@
+52428@DF@1778@Del Lago I (Parano)@D Lago I (Parano)
+52429@DF@1778@Del Lago II (Parano)@D Lago II (Parano)
+52430@DF@1778@Fazendinha (Parano)@
 52431@DF@1778@Setor Policial Sul@St Pol Sul
 52432@DF@1778@Fazenda Mestre D'Armas (Etapa II - Planaltina)@Faz Mte D'Armas (E II - Planaltina)
 52433@DF@1778@Veneza II (Planaltina)@
 52457@DF@1778@Vale do Sol (Planaltina)@Vle Sol (Planaltina)
 52458@DF@1778@Quintas do Amanhecer II (Planaltina)@Qtas Amanhecer II (Planaltina)
-52459@DF@1778@Mansões do Amanhecer (Planaltina)@M Amanhecer (Planaltina)
-52475@DF@1778@Condomínio Santa Mônica (Planaltina)@Cond Sta Mônica (Planaltina)
-52476@DF@1778@Setor Mansões Itiquira (Planaltina)@St M Itiquira (Planaltina)
-52477@DF@1778@Condomínio Mestre D'Armas (Planaltina)@Cond Mte D'Armas (Planaltina)
+52459@DF@1778@Manses do Amanhecer (Planaltina)@M Amanhecer (Planaltina)
+52475@DF@1778@Condomnio Santa Mnica (Planaltina)@Cond Sta Mnica (Planaltina)
+52476@DF@1778@Setor Manses Itiquira (Planaltina)@St M Itiquira (Planaltina)
+52477@DF@1778@Condomnio Mestre D'Armas (Planaltina)@Cond Mte D'Armas (Planaltina)
 52478@DF@1778@Residencial Cachoeira (Planaltina)@Res Cachoeira (Planaltina)
-52479@DF@1778@Condomínio Nosso Lar (Planaltina)@Cond N Lar (Planaltina)
+52479@DF@1778@Condomnio Nosso Lar (Planaltina)@Cond N Lar (Planaltina)
 53382@ES@1847@Riviera@
-53418@DF@1778@Jardins Mangueiral (São Sebastião)@J Mangueiral (S Sebastião)
+53418@DF@1778@Jardins Mangueiral (So Sebastio)@J Mangueiral (S Sebastio)
 53630@DF@1778@Setor Residencial Oeste (Planaltina)@St Res Oeste (Planaltina)
-54910@DF@1778@Condomínio Império dos Nobres (Sobradinho)@Cond I Nobres (Sobradinho)
+54910@DF@1778@Condomnio Imprio dos Nobres (Sobradinho)@Cond I Nobres (Sobradinho)
 55386@AC@16@Dom Giocondo@D Giocondo
-55387@AC@16@Conjunto Jardim São Francisco@Cj Jd S Francisco
+55387@AC@16@Conjunto Jardim So Francisco@Cj Jd S Francisco
 55388@AC@16@Jardim Tropical@Jd Tropical
 55389@AC@16@Casa Nova@
 55390@AC@16@Conjunto Guiomard Santos@Cj G Santos
 55391@AC@16@Conjunto Oscar Passos@Cj O Passos
 55418@AC@16@Volta Seca@V Seca
-55419@AC@16@Glória@
+55419@AC@16@Glria@
 55420@AC@16@Pista@
 55457@AC@16@Residencial Iolanda@Res Iolanda
 55459@AC@16@Loteamento Isaura Parente@Lot I Parente
 55460@AC@16@Loteamento dos Engenheiros@Lot Engenheiros
 55461@AC@16@Parque das Palmeiras@Prq Palmeiras
-55463@AC@16@Conjunto Paulo César de Oliveira@Cj P C Oliveira
-55464@AC@16@Residencial Petrópolis@Res Petrópolis
+55463@AC@16@Conjunto Paulo Csar de Oliveira@Cj P C Oliveira
+55464@AC@16@Residencial Petrpolis@Res Petrpolis
 55466@AC@16@Conjunto Mariana@Cj Mariana
 55467@AC@16@Loteamento Joafra@Lot Joafra
 55469@AC@16@Jardim Primavera@Jd Primavera

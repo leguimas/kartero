@@ -1,4 +1,4 @@
-AF@AFG@Afeganistão@Afghanistan@Afghanistan@
-ZA@ZAF@África do Sul@South-Africa@Afrique Du Sud@
-AL@ALB@Albânia@Albania@Albanie@
+AF@AFG@Afeganisto@Afghanistan@Afghanistan@
+ZA@ZAF@frica do Sul@South-Africa@Afrique Du Sud@
+AL@ALB@Albnia@Albania@Albanie@
 DE@DEU@Alemanha@Germany@Allemagne@

@@ -1,13 +1,13 @@
 54@AC@16@1@@Ari Rodrigues@@69918046@Rua@S@R Ari Rodrigues
 55@AC@16@17@@Arlindo Porto Leal@@69900058@Rua@S@R Arlindo P Leal
-87@AC@16@17@@Benjamim Constant@- de 499 a 1239 - lado �mpar@69900064@Rua@S@R Benjamim Constant
-102@AC@16@17@@Brasil@- lado �mpar@69900076@Avenida@S@Av Brasil
+87@AC@16@17@@Benjamim Constant@- de 499 a 1239 - lado mpar@69900064@Rua@S@R Benjamim Constant
+102@AC@16@17@@Brasil@- lado mpar@69900076@Avenida@S@Av Brasil
 103@AC@16@17@@Brasil@- lado par@69900078@Avenida@S@Av Brasil
-124@AC@16@1@@Carm�polis@@69918062@Rua@S@R Carm�polis
-130@AC@16@17@@dos Catraeiros@@69900054@Pra�a@S@P� dos Catraeiros
+124@AC@16@1@@Carmpolis@@69918062@Rua@S@R Carmpolis
+130@AC@16@17@@dos Catraeiros@@69900054@Praa@S@P dos Catraeiros
 264@AC@16@17@@Doutor Franco Ribeiro@@69900082@Rua@S@R Dr Franco Ribeiro
 370@AC@16@1@@Leblon@@69918040@Travessa@S@Tv Leblon
 491@AC@16@55386@@Pernambuco@- até 484/485@69900306@Rua@S@R Pernambuco
 553@AC@16@1@@Rubens Carneiro@@69918044@Rua@S@R Rubens Carneiro
-814@AC@16@17@@Quintino Bocai�va@@69900070@Rua@S@R Quintino Bocai�va
+814@AC@16@17@@Quintino Bocaiva@@69900070@Rua@S@R Quintino Bocaiva
 660@AC@16@55469@@Tulipas@@69919628@Rua@S@R Tulipas

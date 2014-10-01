@@ -1,21 +1,21 @@
 1129@1@A Sul
-1193@1@Guará
+1193@1@Guar
 1250@1@Set.Oeste
 1250@2@Res.Oeste
 1252@1@V. N.
 1252@2@V. Nova
-1253@1@V. S. José
-1253@2@São José
+1253@1@V. S. Jos
+1253@2@So Jos
 1446@1@Acampamento
 1455@1@Wady Miguel Jarjura
-1456@1@Córrego do Ouro
-1456@2@Café Meridiano
+1456@1@Crrego do Ouro
+1456@2@Caf Meridiano
 48649@1@Aeroporto I, II, II
 48650@1@Reisdencial Sol Nascente
-48650@2@do Café
-48651@1@Parque Jacarandá
+48650@2@do Caf
+48651@1@Parque Jacarand
 49791@1@Vila Serena
-50003@1@Vila Noêmia
+50003@1@Vila Nomia
 50004@1@Village Jardins
 53382@1@Riviera II
 54910@1@CRIN

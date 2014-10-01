@@ -9,7 +9,7 @@
 64009@DF@1778@1129@@CLS 402 Bloco C@@70236530@Quadra@N@Q CLS
 64010@DF@1778@1129@@CLS 402 Bloco D@@70236540@Quadra@N@Q CLS
 64136@DF@1778@1129@@dos Estados@@70310500@Galeria@S@Gal dos Estados
-64139@DF@1778@1129@@dos Tribunais Superiores@@70070080@Praça@S@Pç dos Tribunais Superiores
+64139@DF@1778@1129@@dos Tribunais Superiores@@70070080@Praa@S@P dos Tribunais Superiores
 64184@DF@1778@1129@@EQS 102/103@@70330400@Quadra@N@Q EQS
 64185@DF@1778@1129@@EQS 104/105@@70343400@Quadra@N@Q EQS
 64259@DF@1778@1129@@SAUS Quadra 1@@70070010@Quadra@N@Q SAUS
@@ -45,8 +45,8 @@
 66443@DF@1778@1129@@SQS 302 Bloco D@@70338040@Quadra@N@Q SQS
 67050@DF@1778@49237@@Colina Bloco I@(Gleba A)@70904109@Setor@N@St Colina
 67051@DF@1778@49237@@Colina Bloco J@(Gleba A)@70904110@Setor@N@St Colina
-67052@DF@1778@49237@@Casa do Estudante Universitário Bloco B@(Gleba B)@70908022@Setor@N@St Casa do Estud Universitário
-67053@DF@1778@49237@@Casa do Estudante Universitário Bloco A@(Gleba B)@70908021@Setor@N@St Casa do Estud Universitário
+67052@DF@1778@49237@@Casa do Estudante Universitrio Bloco B@(Gleba B)@70908022@Setor@N@St Casa do Estud Universitrio
+67053@DF@1778@49237@@Casa do Estudante Universitrio Bloco A@(Gleba B)@70908021@Setor@N@St Casa do Estud Universitrio
 72043@DF@1778@1193@@QE 1@@71020001@Quadra@N@Q QE
 72044@DF@1778@1193@@QE 1 Bloco A@@71020011@Quadra@N@Q QE
 72045@DF@1778@1193@@QE 1 Bloco B@@71020021@Quadra@N@Q QE
@@ -59,14 +59,14 @@
 72052@DF@1778@1193@@QE 1 Conjunto I@@71020091@Quadra@N@Q QE
 72053@DF@1778@1193@@QE 1 Conjunto J@@71020101@Quadra@N@Q QE
 72054@DF@1778@1193@@QE 1 Conjunto K@@71020111@Quadra@N@Q QE
-833901@DF@1778@49142@@SHA Conjunto 5 Chácara 138@@71995660@Conjunto@N@Cj SHA Conjunto
-833902@DF@1778@49142@@SHA Conjunto 5 Chácara 139@@71995665@Conjunto@N@Cj SHA Conjunto
-833903@DF@1778@49142@@SHA Conjunto 5 Chácara 139B@@71995670@Conjunto@N@Cj SHA Conjunto
-846274@DF@1778@52002@@Rua 10 Chácara 325@@72007409@Rua@N@R Rua
-846275@DF@1778@52002@@Rua 10 Chácara 326@@72007412@Rua@N@R Rua
-846276@DF@1778@52002@@Rua 10 Chácara 327@@72007415@Rua@N@R Rua
-846277@DF@1778@52002@@Rua 10 Chácara 321/1@@72007397@Rua@N@R Rua
-846297@DF@1778@52000@@Gemétris Chácara 1@@72001100@Chácara@N@Ch Gemétris
-846298@DF@1778@52000@@Gemétris Chácara 2@@72001105@Chácara@N@Ch Gemétris
-846299@DF@1778@52000@@Gemétris Chácara 3@@72001110@Chácara@N@Ch Gemétris
-846300@DF@1778@52000@@Gemétris Chácara 4@@72001115@Chácara@N@Ch Gemétris
+833901@DF@1778@49142@@SHA Conjunto 5 Chcara 138@@71995660@Conjunto@N@Cj SHA Conjunto
+833902@DF@1778@49142@@SHA Conjunto 5 Chcara 139@@71995665@Conjunto@N@Cj SHA Conjunto
+833903@DF@1778@49142@@SHA Conjunto 5 Chcara 139B@@71995670@Conjunto@N@Cj SHA Conjunto
+846274@DF@1778@52002@@Rua 10 Chcara 325@@72007409@Rua@N@R Rua
+846275@DF@1778@52002@@Rua 10 Chcara 326@@72007412@Rua@N@R Rua
+846276@DF@1778@52002@@Rua 10 Chcara 327@@72007415@Rua@N@R Rua
+846277@DF@1778@52002@@Rua 10 Chcara 321/1@@72007397@Rua@N@R Rua
+846297@DF@1778@52000@@Gemtris Chcara 1@@72001100@Chcara@N@Ch Gemtris
+846298@DF@1778@52000@@Gemtris Chcara 2@@72001105@Chcara@N@Ch Gemtris
+846299@DF@1778@52000@@Gemtris Chcara 3@@72001110@Chcara@N@Ch Gemtris
+846300@DF@1778@52000@@Gemtris Chcara 4@@72001115@Chcara@N@Ch Gemtris
