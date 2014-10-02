@@ -1,8 +1,10 @@
 package br.com.leguimas.kartero.importer.parser;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -109,7 +111,9 @@ public class CorreiosParser {
 
 		BufferedReader br = null;
 		try {
-			br = new BufferedReader(new FileReader(path));
+		    File f = new File(path);
+			br = new BufferedReader(new BufferedReader(
+			new InputStreamReader(new FileInputStream(f), "UTF-8")));
 			StringBuilder sb = new StringBuilder();
 			String line = br.readLine();
 
