@@ -113,7 +113,7 @@ public class CorreiosParser {
 		try {
 		    File f = new File(path);
 			br = new BufferedReader(new BufferedReader(
-			new InputStreamReader(new FileInputStream(f), "UTF-8")));
+			new InputStreamReader(new FileInputStream(f), "ISO-8859-1")));
 			StringBuilder sb = new StringBuilder();
 			String line = br.readLine();
 
